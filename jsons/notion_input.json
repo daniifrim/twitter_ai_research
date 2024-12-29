@@ -1,0 +1,939 @@
+[
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8029-8faf-d91bccea05fe",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:23:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Profile",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Profile",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 1
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-802d-aa4e-f118a590b0ae",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T18:41:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Hi, I'm Dani, a software developer. I started out building Notion billing systems for small businesses, then transitioned into more complex systems using Coda.io as my clients' needs evolved. This led me to develop custom apps, and now I'm excited by the potential of AI and automation agents. My current focus is building AI systems and automation solutions for businesses—that's where my passion lies and what I'm eager to learn more about.\nI have a basic understanding of coding, and with the help of AI-powered IDEs, I can develop many applications. Having worked extensively with various no-code tools over the years, I've gained deep expertise in most of them.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Hi, I'm Dani, a software developer. I started out building Notion billing systems for small businesses, then transitioned into more complex systems using Coda.io as my clients' needs evolved. This led me to develop custom apps, and now I'm excited by the potential of AI and automation agents. My current focus is building AI systems and automation solutions for businesses—that's where my passion lies and what I'm eager to learn more about.\nI have a basic understanding of coding, and with the help of AI-powered IDEs, I can develop many applications. Having worked extensively with various no-code tools over the years, I've gained deep expertise in most of them.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 2
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8082-916d-d3d6145a60e9",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:11:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Interests",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Interests",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 3
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-807c-93c6-e5c61f3392ac",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:23:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "AI agents",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "AI agents",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 4
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-80a6-91c9-c5232e029faa",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:23:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "AI news",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "AI news",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 5
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8084-9c44-d4ac1f4427c2",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:23:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "AI automation agency",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "AI automation agency",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 6
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-80c9-90fc-cfba39c4d6a5",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:23:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "AI coding",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "AI coding",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 7
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8016-8cc5-ebcdd8849746",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:23:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "AI coding agent",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "AI coding agent",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 8
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8039-b7f8-eda2c35141c8",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:23:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "AI research",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "AI research",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 9
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8020-872e-ca3c902be139",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:23:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "AI startups",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "AI startups",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 10
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-80e1-935b-d8c8d3d77a03",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:23:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "AI funding",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "AI funding",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 11
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8033-a04a-cb0d5fc856a9",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:23:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "AI implementations",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "AI implementations",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 12
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8090-8e5e-d59ed1d0c03b",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:23:00.000Z",
+        "last_edited_time": "2024-12-28T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Accounts to follow",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Accounts to follow",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 13
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8021-b0d0-d3a57826570d",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:24:00.000Z",
+        "last_edited_time": "2024-12-28T19:24:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "https://x.com/AtomSilverman",
+                        "link": {
+                            "url": "https://x.com/AtomSilverman"
+                        }
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "https://x.com/AtomSilverman",
+                    "href": "https://x.com/AtomSilverman"
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 14
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8049-9f73-e8a0277a7557",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:24:00.000Z",
+        "last_edited_time": "2024-12-28T19:24:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "https://x.com/mattpocockuk",
+                        "link": {
+                            "url": "https://x.com/mattpocockuk"
+                        }
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "https://x.com/mattpocockuk",
+                    "href": "https://x.com/mattpocockuk"
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 15
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-80e5-a1e4-f1abb675ab5f",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:24:00.000Z",
+        "last_edited_time": "2024-12-28T19:24:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "https://x.com/itsolelehmann",
+                        "link": {
+                            "url": "https://x.com/itsolelehmann"
+                        }
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "https://x.com/itsolelehmann",
+                    "href": "https://x.com/itsolelehmann"
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 16
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8044-bc96-cdf6801277ed",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:24:00.000Z",
+        "last_edited_time": "2024-12-28T19:24:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "https://x.com/hasantoxr",
+                        "link": {
+                            "url": "https://x.com/hasantoxr"
+                        }
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "https://x.com/hasantoxr",
+                    "href": "https://x.com/hasantoxr"
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 17
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-80a7-b042-e9b060fbf267",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:24:00.000Z",
+        "last_edited_time": "2024-12-28T19:24:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "https://x.com/GoodAIdev",
+                        "link": {
+                            "url": "https://x.com/GoodAIdev"
+                        }
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "https://x.com/GoodAIdev",
+                    "href": "https://x.com/GoodAIdev"
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 18
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8060-8b25-e624039b9bff",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:24:00.000Z",
+        "last_edited_time": "2024-12-28T19:24:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "https://x.com/karpathy/",
+                        "link": {
+                            "url": "https://x.com/karpathy/"
+                        }
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "https://x.com/karpathy/",
+                    "href": "https://x.com/karpathy/"
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 19
+    },
+    {
+        "object": "block",
+        "id": "16a7a5bd-694a-8099-a00d-e289fa96fa39",
+        "parent": {
+            "type": "page_id",
+            "page_id": "16a7a5bd-694a-8051-9ce0-f6b2391f294e"
+        },
+        "created_time": "2024-12-28T19:24:00.000Z",
+        "last_edited_time": "2024-12-28T19:24:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "54cead76-e2a3-4c5b-92ff-69b438dd4876"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "https://x.com/sebastianvolkis",
+                        "link": {
+                            "url": "https://x.com/sebastianvolkis"
+                        }
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "https://x.com/sebastianvolkis",
+                    "href": "https://x.com/sebastianvolkis"
+                }
+            ],
+            "color": "default"
+        },
+        "__IMTLENGTH__": 20,
+        "__IMTINDEX__": 20
+    }
+]

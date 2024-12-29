@@ -1,0 +1,35 @@
+{
+    "customMapFunction": "(object) => { return {...object} }",
+    "includeSearchTerms": true,
+    "maxItems": 100,
+    "minimumRetweets": 30,
+    "onlyImage": false,
+    "onlyQuote": false,
+    "onlyTwitterBlue": false,
+    "onlyVerifiedUsers": true,
+    "onlyVideo": false,
+    "searchTerms": [
+        "AI agents",
+        "AI news",
+        "AI automation agency",
+        "AI coding",
+        "AI coding agent",
+        "AI research",
+        "AI startups",
+        "AI funding",
+        "AI implementations"
+    ],
+    "sort": "Top",
+    "start": "2024-12-21",
+    "startUrls": [
+        "https://x.com/AtomSilverman",
+        "https://x.com/mattpocockuk",
+        "https://x.com/itsolelehmann",
+        "https://x.com/hasantoxr",
+        "https://x.com/GoodAIdev",
+        "https://x.com/karpathy/",
+        "https://x.com/sebastianvolkis",
+        "https://x.com/itsPaulAi"
+    ],
+    "tweetLanguage": "en"
+}
