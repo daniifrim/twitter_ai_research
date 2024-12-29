@@ -187,26 +187,12 @@ def summarize_tweets(tweets, profile, interests):
     return summary
 
 # Main function to execute the process
-def main():
-    page_id = os.getenv('NOTION_PAGE_ID')  # Ensure this is set in your .env file
-    logging.info('Fetching blocks from Notion page...')
-    blocks = fetch_page_blocks(page_id)
-    if not blocks:
-        logging.error('No blocks were fetched. Please check the page ID and sharing settings.')
-        return
-    logging.info('Blocks fetched successfully.')
+def main(event, context):
+    # Your Lambda function code here
+    print("Event:", event)
+    print("Context:", context)
+    # Add your logic here
 
-    logging.info('Processing Notion data...')
-    output = process_notion_data(blocks)
-    logging.info('Notion data processed.')
-
-    logging.info('Transforming data into Apify input format...')
-    apify_input = transform_to_apify_input(output)
-    logging.info('Data transformed into Apify input format.')
-
-    logging.info('Running Apify actor task...')
-    run_apify_actor(apify_input, output)
-    logging.info('Apify actor task completed.')
-
-if __name__ == '__main__':
-    main() 
+if __name__ == "__main__":
+    # This part won't be used in Lambda, but can be useful for local testing
+    main({}, {}) 
