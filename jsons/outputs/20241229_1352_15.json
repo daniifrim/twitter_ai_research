@@ -1,0 +1,2863 @@
+{
+    "summary": "# Insights into AI and Automation: Key Developments and Resources\n\nInformation taken from analysis of 6 tweets\n\n## Enhancing AI Prompting Skills\n\nFor those interested in refining their AI prompting skills, \"The Prompt Report\" has been highlighted as an essential read. This resource could be invaluable for developers looking to optimize their interactions with AI systems, ensuring more accurate and efficient outputs. [Source](https://t.co/iqjNp1qVam)\n\n## Exploring LLM Workflows\n\nAnthropic recently released an insightful article on various large language model (LLM) workflows. This summary could provide valuable insights for developers like Dani, who are keen on understanding the intricacies of AI systems and how they can be leveraged for building advanced automation solutions. [Source](https://t.co/2h0R1fQ10o)\n\n## Product Market Fit in AI Startups\n\nNavigating the journey to find product-market fit is a common challenge in the startup world, especially within AI-focused ventures. This tweet reflects the ongoing effort and strategic thinking required to align AI product offerings with market demands, a crucial aspect for anyone involved in AI startups or looking to secure AI funding. [Source](https://t.co/AqPfS99hyp)\n\n## Node.js and TypeScript Integration\n\nThe integration of TypeScript into Node.js, as discussed by @satanacchio, showcases the collaborative efforts in the developer community to enhance coding tools. This development is particularly relevant for those using AI-powered IDEs, as it could streamline the coding process and improve the efficiency of developing AI applications. The collaboration with @swc_rs and @kdy1dev was pivotal in achieving this milestone. [Source](https://twitter.com/satanacchio)\n\n## Upcoming Features in Evalite\n\nExciting updates are on the horizon for Evalite, a tool that will soon support images, files, and more. This expansion of capabilities could be particularly beneficial for developers working on AI implementations that require handling diverse data types, further broadening the scope of automation solutions. [Source](https://t.co/kS5c5EwQBm)\n\nEach of these tweets highlights significant developments and resources that align with Dani's interests in AI agents, AI coding, and automation solutions. The insights provided could serve as a valuable guide for anyone looking to deepen their understanding and expertise in these areas.",
+    "tweets": [
+        {
+            "type": "tweet",
+            "id": "1873012911708471563",
+            "url": "https://x.com/mattpocockuk/status/1873012911708471563",
+            "twitterUrl": "https://twitter.com/mattpocockuk/status/1873012911708471563",
+            "text": "If you want to improve your prompting, The Prompt Report is the single best thing you can read.\n\nhttps://t.co/iqjNp1qVam",
+            "fullText": "If you want to improve your prompting, The Prompt Report is the single best thing you can read.\n\nhttps://t.co/iqjNp1qVam",
+            "source": "Twitter Web App",
+            "retweetCount": 20,
+            "replyCount": 8,
+            "likeCount": 356,
+            "quoteCount": 3,
+            "viewCount": 26260,
+            "createdAt": "Sat Dec 28 14:27:31 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 500,
+            "isReply": false,
+            "conversationId": "1873012911708471563",
+            "possiblySensitive": false,
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "mattpocockuk",
+                "url": "https://x.com/mattpocockuk",
+                "twitterUrl": "https://twitter.com/mattpocockuk",
+                "id": "346640777",
+                "name": "Matt Pocock",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/346640777/1658411534",
+                "description": "Full-time TS/AI educator. Ex-@vercel, @statelyai. Used to be a voice coach. He/him. Author of Total TypeScript \ud83e\uddd9 Hire me to teach your team TypeScript!",
+                "location": "Oxford, England",
+                "followers": 170062,
+                "following": 650,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Mon Aug 01 16:08:26 +0000 2011",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "totaltypescript.com",
+                                "expanded_url": "https://totaltypescript.com",
+                                "url": "https://t.co/7tEg5DN7Vw",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 52066,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 2083,
+                "statusesCount": 24654,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1863670853910569191"
+                ]
+            },
+            "extendedEntities": {},
+            "card": {
+                "rest_id": "https://t.co/iqjNp1qVam",
+                "legacy": {
+                    "binding_values": [
+                        {
+                            "key": "photo_image_full_size_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 419,
+                                    "width": 800,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=800x419"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image",
+                            "value": {
+                                "image_value": {
+                                    "height": 147,
+                                    "width": 280,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=280x150"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "description",
+                            "value": {
+                                "string_value": "AI Engineering for Curious Professional Developers",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "domain",
+                            "value": {
+                                "string_value": "www.aihero.dev",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 315,
+                                    "width": 600,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=600x600"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_small",
+                            "value": {
+                                "image_value": {
+                                    "height": 202,
+                                    "width": 386,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=386x202"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_original",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=orig"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_small",
+                            "value": {
+                                "image_value": {
+                                    "height": 202,
+                                    "width": 386,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=386x202"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 419,
+                                    "width": 800,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=800x419"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_small",
+                            "value": {
+                                "image_value": {
+                                    "height": 76,
+                                    "width": 144,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=144x144"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_x_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=png&name=2048x2048_2_exp"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_original",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=orig"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "vanity_url",
+                            "value": {
+                                "scribe_key": "vanity_url",
+                                "string_value": "aihero.dev",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size",
+                            "value": {
+                                "image_value": {
+                                    "height": 314,
+                                    "width": 600,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=600x314"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_color",
+                            "value": {
+                                "image_color_value": {
+                                    "palette": [
+                                        {
+                                            "rgb": {
+                                                "blue": 4,
+                                                "green": 4,
+                                                "red": 4
+                                            },
+                                            "percentage": 95.9
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 121,
+                                                "green": 121,
+                                                "red": 121
+                                            },
+                                            "percentage": 3.81
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 194,
+                                                "green": 194,
+                                                "red": 194
+                                            },
+                                            "percentage": 0.29
+                                        }
+                                    ]
+                                },
+                                "type": "IMAGE_COLOR"
+                            }
+                        },
+                        {
+                            "key": "title",
+                            "value": {
+                                "string_value": "Here's 2024's best resource on prompt engineering",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_color",
+                            "value": {
+                                "image_color_value": {
+                                    "palette": [
+                                        {
+                                            "rgb": {
+                                                "blue": 4,
+                                                "green": 4,
+                                                "red": 4
+                                            },
+                                            "percentage": 95.9
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 121,
+                                                "green": 121,
+                                                "red": 121
+                                            },
+                                            "percentage": 3.81
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 194,
+                                                "green": 194,
+                                                "red": 194
+                                            },
+                                            "percentage": 0.29
+                                        }
+                                    ]
+                                },
+                                "type": "IMAGE_COLOR"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_x_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=png&name=2048x2048_2_exp"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image",
+                            "value": {
+                                "image_value": {
+                                    "height": 314,
+                                    "width": 600,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=600x314"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_color",
+                            "value": {
+                                "image_color_value": {
+                                    "palette": [
+                                        {
+                                            "rgb": {
+                                                "blue": 4,
+                                                "green": 4,
+                                                "red": 4
+                                            },
+                                            "percentage": 95.9
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 121,
+                                                "green": 121,
+                                                "red": 121
+                                            },
+                                            "percentage": 3.81
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 194,
+                                                "green": 194,
+                                                "red": 194
+                                            },
+                                            "percentage": 0.29
+                                        }
+                                    ]
+                                },
+                                "type": "IMAGE_COLOR"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_x_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=png&name=2048x2048_2_exp"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "card_url",
+                            "value": {
+                                "scribe_key": "card_url",
+                                "string_value": "https://t.co/iqjNp1qVam",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_original",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873010871846219776/94kZJgYZ?format=jpg&name=orig"
+                                },
+                                "type": "IMAGE"
+                            }
+                        }
+                    ],
+                    "card_platform": {
+                        "platform": {
+                            "audience": {
+                                "name": "production"
+                            },
+                            "device": {
+                                "name": "Swift",
+                                "version": "12"
+                            }
+                        }
+                    },
+                    "name": "summary_large_image",
+                    "url": "https://t.co/iqjNp1qVam",
+                    "user_refs_results": []
+                }
+            },
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "aihero.dev/the-prompt-rep\u2026",
+                        "expanded_url": "https://www.aihero.dev/the-prompt-report",
+                        "url": "https://t.co/iqjNp1qVam",
+                        "indices": [
+                            97,
+                            120
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "isRetweet": false,
+            "isQuote": false,
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1873063064293261368",
+            "url": "https://x.com/mattpocockuk/status/1873063064293261368",
+            "twitterUrl": "https://twitter.com/mattpocockuk/status/1873063064293261368",
+            "text": "I have spent many years in search of product market fit https://t.co/AqPfS99hyp",
+            "fullText": "I have spent many years in search of product market fit https://t.co/AqPfS99hyp",
+            "source": "Twitter for Android",
+            "retweetCount": 0,
+            "replyCount": 25,
+            "likeCount": 286,
+            "quoteCount": 0,
+            "viewCount": 17116,
+            "createdAt": "Sat Dec 28 17:46:49 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 9,
+            "isReply": false,
+            "conversationId": "1873063064293261368",
+            "possiblySensitive": false,
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "mattpocockuk",
+                "url": "https://x.com/mattpocockuk",
+                "twitterUrl": "https://twitter.com/mattpocockuk",
+                "id": "346640777",
+                "name": "Matt Pocock",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/346640777/1658411534",
+                "description": "Full-time TS/AI educator. Ex-@vercel, @statelyai. Used to be a voice coach. He/him. Author of Total TypeScript \ud83e\uddd9 Hire me to teach your team TypeScript!",
+                "location": "Oxford, England",
+                "followers": 170062,
+                "following": 650,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Mon Aug 01 16:08:26 +0000 2011",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "totaltypescript.com",
+                                "expanded_url": "https://totaltypescript.com",
+                                "url": "https://t.co/7tEg5DN7Vw",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 52066,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 2083,
+                "statusesCount": 24654,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1863670853910569191"
+                ]
+            },
+            "extendedEntities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/AqPfS99hyp",
+                        "expanded_url": "https://x.com/mattpocockuk/status/1873063064293261368/photo/1",
+                        "id_str": "1873063060639801344",
+                        "indices": [
+                            56,
+                            79
+                        ],
+                        "media_key": "3_1873063060639801344",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf507gNXYAAGwH1.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/AqPfS99hyp",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 206,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 294,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 385,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 475,
+                                        "y": 515,
+                                        "h": 26,
+                                        "w": 26
+                                    },
+                                    {
+                                        "x": 38,
+                                        "y": 414,
+                                        "h": 33,
+                                        "w": 33
+                                    },
+                                    {
+                                        "x": 101,
+                                        "y": 57,
+                                        "h": 195,
+                                        "w": 195
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1025,
+                                "w": 1179,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1025,
+                                "w": 1179,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 591,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1025,
+                            "width": 1179,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 230,
+                                    "w": 1179,
+                                    "h": 660
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1025,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 899,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 127,
+                                    "y": 0,
+                                    "w": 513,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1179,
+                                    "h": 1025
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1873063060639801344"
+                            }
+                        }
+                    }
+                ]
+            },
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/AqPfS99hyp",
+                        "expanded_url": "https://x.com/mattpocockuk/status/1873063064293261368/photo/1",
+                        "id_str": "1873063060639801344",
+                        "indices": [
+                            56,
+                            79
+                        ],
+                        "media_key": "3_1873063060639801344",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf507gNXYAAGwH1.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/AqPfS99hyp",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 206,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 294,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 385,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 475,
+                                        "y": 515,
+                                        "h": 26,
+                                        "w": 26
+                                    },
+                                    {
+                                        "x": 38,
+                                        "y": 414,
+                                        "h": 33,
+                                        "w": 33
+                                    },
+                                    {
+                                        "x": 101,
+                                        "y": 57,
+                                        "h": 195,
+                                        "w": 195
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1025,
+                                "w": 1179,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1025,
+                                "w": 1179,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 591,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1025,
+                            "width": 1179,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 230,
+                                    "w": 1179,
+                                    "h": 660
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1025,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 899,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 127,
+                                    "y": 0,
+                                    "w": 513,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1179,
+                                    "h": 1025
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1873063060639801344"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "isRetweet": false,
+            "isQuote": false,
+            "media": [
+                "https://pbs.twimg.com/media/Gf507gNXYAAGwH1.jpg"
+            ],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1872677471013032051",
+            "url": "https://x.com/mattpocockuk/status/1872677471013032051",
+            "twitterUrl": "https://twitter.com/mattpocockuk/status/1872677471013032051",
+            "text": "A few days ago, Anthropic dropped a fantastic article on different LLM workflows. Here's my summary:\n\nhttps://t.co/2h0R1fQ10o",
+            "fullText": "A few days ago, Anthropic dropped a fantastic article on different LLM workflows. Here's my summary:\n\nhttps://t.co/2h0R1fQ10o",
+            "source": "Twitter Web App",
+            "retweetCount": 23,
+            "replyCount": 7,
+            "likeCount": 193,
+            "quoteCount": 2,
+            "viewCount": 23343,
+            "createdAt": "Fri Dec 27 16:14:36 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 205,
+            "isReply": false,
+            "conversationId": "1872677471013032051",
+            "possiblySensitive": false,
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "mattpocockuk",
+                "url": "https://x.com/mattpocockuk",
+                "twitterUrl": "https://twitter.com/mattpocockuk",
+                "id": "346640777",
+                "name": "Matt Pocock",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/346640777/1658411534",
+                "description": "Full-time TS/AI educator. Ex-@vercel, @statelyai. Used to be a voice coach. He/him. Author of Total TypeScript \ud83e\uddd9 Hire me to teach your team TypeScript!",
+                "location": "Oxford, England",
+                "followers": 170062,
+                "following": 650,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Mon Aug 01 16:08:26 +0000 2011",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "totaltypescript.com",
+                                "expanded_url": "https://totaltypescript.com",
+                                "url": "https://t.co/7tEg5DN7Vw",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 52066,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 2083,
+                "statusesCount": 24654,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1863670853910569191"
+                ]
+            },
+            "extendedEntities": {},
+            "card": {
+                "rest_id": "https://t.co/2h0R1fQ10o",
+                "legacy": {
+                    "binding_values": [
+                        {
+                            "key": "photo_image_full_size_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 419,
+                                    "width": 800,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=800x419"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image",
+                            "value": {
+                                "image_value": {
+                                    "height": 147,
+                                    "width": 280,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=280x150"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "description",
+                            "value": {
+                                "string_value": "AI Engineering for Curious Professional Developers",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "domain",
+                            "value": {
+                                "string_value": "www.aihero.dev",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 315,
+                                    "width": 600,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=600x600"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_small",
+                            "value": {
+                                "image_value": {
+                                    "height": 202,
+                                    "width": 386,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=386x202"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_original",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=orig"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_small",
+                            "value": {
+                                "image_value": {
+                                    "height": 202,
+                                    "width": 386,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=386x202"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 419,
+                                    "width": 800,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=800x419"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_small",
+                            "value": {
+                                "image_value": {
+                                    "height": 76,
+                                    "width": 144,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=144x144"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_x_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=png&name=2048x2048_2_exp"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_original",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=orig"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "vanity_url",
+                            "value": {
+                                "scribe_key": "vanity_url",
+                                "string_value": "aihero.dev",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size",
+                            "value": {
+                                "image_value": {
+                                    "height": 314,
+                                    "width": 600,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=600x314"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_color",
+                            "value": {
+                                "image_color_value": {
+                                    "palette": [
+                                        {
+                                            "rgb": {
+                                                "blue": 4,
+                                                "green": 4,
+                                                "red": 4
+                                            },
+                                            "percentage": 95.67
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 150,
+                                                "green": 150,
+                                                "red": 150
+                                            },
+                                            "percentage": 2.85
+                                        }
+                                    ]
+                                },
+                                "type": "IMAGE_COLOR"
+                            }
+                        },
+                        {
+                            "key": "title",
+                            "value": {
+                                "string_value": "Anthropic thinks you should build agents like this",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_color",
+                            "value": {
+                                "image_color_value": {
+                                    "palette": [
+                                        {
+                                            "rgb": {
+                                                "blue": 4,
+                                                "green": 4,
+                                                "red": 4
+                                            },
+                                            "percentage": 95.67
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 150,
+                                                "green": 150,
+                                                "red": 150
+                                            },
+                                            "percentage": 2.85
+                                        }
+                                    ]
+                                },
+                                "type": "IMAGE_COLOR"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_x_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=png&name=2048x2048_2_exp"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image",
+                            "value": {
+                                "image_value": {
+                                    "height": 314,
+                                    "width": 600,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=600x314"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_color",
+                            "value": {
+                                "image_color_value": {
+                                    "palette": [
+                                        {
+                                            "rgb": {
+                                                "blue": 4,
+                                                "green": 4,
+                                                "red": 4
+                                            },
+                                            "percentage": 95.67
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 150,
+                                                "green": 150,
+                                                "red": 150
+                                            },
+                                            "percentage": 2.85
+                                        }
+                                    ]
+                                },
+                                "type": "IMAGE_COLOR"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_x_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=png&name=2048x2048_2_exp"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "card_url",
+                            "value": {
+                                "scribe_key": "card_url",
+                                "string_value": "https://t.co/2h0R1fQ10o",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_original",
+                            "value": {
+                                "image_value": {
+                                    "height": 630,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1872677518173761536/i1SI5FrK?format=jpg&name=orig"
+                                },
+                                "type": "IMAGE"
+                            }
+                        }
+                    ],
+                    "card_platform": {
+                        "platform": {
+                            "audience": {
+                                "name": "production"
+                            },
+                            "device": {
+                                "name": "Swift",
+                                "version": "12"
+                            }
+                        }
+                    },
+                    "name": "summary_large_image",
+                    "url": "https://t.co/2h0R1fQ10o",
+                    "user_refs_results": []
+                }
+            },
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "aihero.dev/building-effec\u2026",
+                        "expanded_url": "https://www.aihero.dev/building-effective-agents",
+                        "url": "https://t.co/2h0R1fQ10o",
+                        "indices": [
+                            102,
+                            125
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "isRetweet": false,
+            "isQuote": false,
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1872648522669187091",
+            "url": "https://x.com/mattpocockuk/status/1872648522669187091",
+            "twitterUrl": "https://twitter.com/mattpocockuk/status/1872648522669187091",
+            "text": "RT @satanacchio: You can sponsor my work on the Node.js TypeScript integration. It's not part of my job, its very time consuming.\nI have re\u2026",
+            "fullText": "RT @satanacchio: You can sponsor my work on the Node.js TypeScript integration. It's not part of my job, its very time consuming.\nI have re\u2026",
+            "source": "Twitter Web App",
+            "retweetCount": 18,
+            "replyCount": 0,
+            "likeCount": 63,
+            "quoteCount": 0,
+            "viewCount": 7751,
+            "createdAt": "Fri Dec 27 14:19:34 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 3,
+            "isReply": false,
+            "conversationId": "1872648522669187091",
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "mattpocockuk",
+                "url": "https://x.com/mattpocockuk",
+                "twitterUrl": "https://twitter.com/mattpocockuk",
+                "id": "346640777",
+                "name": "Matt Pocock",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/346640777/1658411534",
+                "description": "Full-time TS/AI educator. Ex-@vercel, @statelyai. Used to be a voice coach. He/him. Author of Total TypeScript \ud83e\uddd9 Hire me to teach your team TypeScript!",
+                "location": "Oxford, England",
+                "followers": 170062,
+                "following": 650,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Mon Aug 01 16:08:26 +0000 2011",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "totaltypescript.com",
+                                "expanded_url": "https://totaltypescript.com",
+                                "url": "https://t.co/7tEg5DN7Vw",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 52066,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 2083,
+                "statusesCount": 24654,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1863670853910569191"
+                ]
+            },
+            "extendedEntities": {},
+            "card": {
+                "rest_id": "https://t.co/TtpzMCeAdO",
+                "legacy": {
+                    "binding_values": [
+                        {
+                            "key": "thumbnail_image",
+                            "value": {
+                                "image_value": {
+                                    "height": 144,
+                                    "width": 144,
+                                    "url": "https://pbs.twimg.com/card_img/1871837350520893440/_oUyf--K?format=png&name=144x144_2"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "description",
+                            "value": {
+                                "string_value": "Hi I'm Marco and I work on Node.js",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "domain",
+                            "value": {
+                                "string_value": "github.com",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 400,
+                                    "width": 400,
+                                    "url": "https://pbs.twimg.com/card_img/1871837350520893440/_oUyf--K?format=png&name=420x420_2"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_original",
+                            "value": {
+                                "image_value": {
+                                    "height": 400,
+                                    "width": 400,
+                                    "url": "https://pbs.twimg.com/card_img/1871837350520893440/_oUyf--K?format=png&name=orig"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "site",
+                            "value": {
+                                "scribe_key": "publisher_id",
+                                "type": "USER",
+                                "user_value": {
+                                    "id_str": "13334762",
+                                    "path": []
+                                }
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_small",
+                            "value": {
+                                "image_value": {
+                                    "height": 100,
+                                    "width": 100,
+                                    "url": "https://pbs.twimg.com/card_img/1871837350520893440/_oUyf--K?format=png&name=100x100_2"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_x_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 400,
+                                    "width": 400,
+                                    "url": "https://pbs.twimg.com/card_img/1871837350520893440/_oUyf--K?format=png&name=2048x2048_2_exp"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_alt_text",
+                            "value": {
+                                "string_value": "Hi I'm Marco and I work on Node.js",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "vanity_url",
+                            "value": {
+                                "scribe_key": "vanity_url",
+                                "string_value": "github.com",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_color",
+                            "value": {
+                                "image_color_value": {
+                                    "palette": [
+                                        {
+                                            "rgb": {
+                                                "blue": 93,
+                                                "green": 51,
+                                                "red": 34
+                                            },
+                                            "percentage": 36.85
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 10,
+                                                "green": 10,
+                                                "red": 11
+                                            },
+                                            "percentage": 21.78
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 130,
+                                                "green": 165,
+                                                "red": 204
+                                            },
+                                            "percentage": 16.56
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 178,
+                                                "green": 170,
+                                                "red": 149
+                                            },
+                                            "percentage": 5.96
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 73,
+                                                "green": 97,
+                                                "red": 139
+                                            },
+                                            "percentage": 4.55
+                                        }
+                                    ]
+                                },
+                                "type": "IMAGE_COLOR"
+                            }
+                        },
+                        {
+                            "key": "title",
+                            "value": {
+                                "string_value": "Sponsor @marco-ippolito on GitHub Sponsors",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "card_url",
+                            "value": {
+                                "scribe_key": "card_url",
+                                "string_value": "https://t.co/TtpzMCeAdO",
+                                "type": "STRING"
+                            }
+                        }
+                    ],
+                    "card_platform": {
+                        "platform": {
+                            "audience": {
+                                "name": "production"
+                            },
+                            "device": {
+                                "name": "Swift",
+                                "version": "12"
+                            }
+                        }
+                    },
+                    "name": "summary",
+                    "url": "https://t.co/TtpzMCeAdO",
+                    "user_refs_results": [
+                        {
+                            "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMzMzNDc2Mg==",
+                                "rest_id": "13334762",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": true,
+                                "profile_image_shape": "Square",
+                                "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": true,
+                                    "created_at": "Mon Feb 11 04:41:50 +0000 2008",
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "The AI-powered developer platform to build, scale, and deliver secure software.",
+                                    "entities": {
+                                        "description": {
+                                            "urls": []
+                                        },
+                                        "url": {
+                                            "urls": [
+                                                {
+                                                    "display_url": "github.com",
+                                                    "expanded_url": "http://github.com",
+                                                    "url": "https://t.co/bbJgfyzcJR",
+                                                    "indices": [
+                                                        0,
+                                                        23
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 8213,
+                                    "followers_count": 2609052,
+                                    "friends_count": 337,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 17971,
+                                    "location": "San Francisco, CA",
+                                    "media_count": 2498,
+                                    "name": "GitHub",
+                                    "normal_followers_count": 2609052,
+                                    "pinned_tweet_ids_str": [
+                                        "1869447551876788359"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/13334762/1721228108",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1633247750010830848/8zfRrYjA_normal.png",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "github",
+                                    "statuses_count": 9373,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/bbJgfyzcJR",
+                                    "verified": false,
+                                    "verified_type": "Business",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                },
+                                "tipjar_settings": {}
+                            }
+                        }
+                    ]
+                }
+            },
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "2309546307",
+                        "name": "Marco Ippolito",
+                        "screen_name": "satanacchio",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ]
+            },
+            "isRetweet": true,
+            "retweet": {
+                "type": "tweet",
+                "id": "1872642333763833929",
+                "text": "You can sponsor my work on the Node.js TypeScript integration. It's not part of my job, its very time consuming.\nI have received so far ~300$ mostly from @antfu7\nIf you benefit from it do the right thing \ud83d\udc47\nhttps://t.co/TtpzMCeAdO",
+                "source": "Twitter for Android",
+                "retweetCount": 18,
+                "replyCount": 0,
+                "likeCount": 63,
+                "quoteCount": 0,
+                "viewCount": 7751,
+                "createdAt": "Fri Dec 27 13:54:59 +0000 2024",
+                "lang": "en",
+                "bookmarkCount": 3,
+                "possiblySensitive": false,
+                "isPinned": false,
+                "author": {
+                    "type": "user",
+                    "userName": "satanacchio",
+                    "url": "https://x.com/satanacchio",
+                    "twitterUrl": "https://twitter.com/satanacchio",
+                    "id": "2309546307",
+                    "name": "Marco Ippolito",
+                    "isVerified": false,
+                    "isBlueVerified": false,
+                    "profilePicture": "https://pbs.twimg.com/profile_images/1862680234832584704/9HFMybEb_normal.jpg",
+                    "coverPicture": "https://pbs.twimg.com/profile_banners/2309546307/1733347483",
+                    "description": "\ud83d\udc68\u200d\ud83d\udcbb Security Engineer @herodevs\n\ud83d\udc9a @nodejs Technical Steering Committee | Releaser | Security Team",
+                    "location": "",
+                    "followers": 1670,
+                    "following": 407,
+                    "status": "",
+                    "canDm": false,
+                    "canMediaTag": true,
+                    "createdAt": "Tue Jan 28 10:39:14 +0000 2014",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "marcoippolito.dev",
+                                    "expanded_url": "http://marcoippolito.dev",
+                                    "url": "https://t.co/a8dVQDUkHd",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 2988,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "mediaCount": 170,
+                    "statusesCount": 1406,
+                    "withheldInCountries": [],
+                    "affiliatesHighlightedLabel": {},
+                    "possiblySensitive": false,
+                    "pinnedTweetIds": [
+                        "1871836682422817113"
+                    ]
+                },
+                "extendedEntities": {},
+                "card": {
+                    "rest_id": "https://t.co/TtpzMCeAdO",
+                    "legacy": {
+                        "binding_values": [
+                            {
+                                "key": "thumbnail_image",
+                                "value": {
+                                    "image_value": {
+                                        "height": 144,
+                                        "width": 144,
+                                        "url": "https://pbs.twimg.com/card_img/1871837350520893440/_oUyf--K?format=png&name=144x144_2"
+                                    },
+                                    "type": "IMAGE"
+                                }
+                            },
+                            {
+                                "key": "description",
+                                "value": {
+                                    "string_value": "Hi I'm Marco and I work on Node.js",
+                                    "type": "STRING"
+                                }
+                            },
+                            {
+                                "key": "domain",
+                                "value": {
+                                    "string_value": "github.com",
+                                    "type": "STRING"
+                                }
+                            },
+                            {
+                                "key": "thumbnail_image_large",
+                                "value": {
+                                    "image_value": {
+                                        "height": 400,
+                                        "width": 400,
+                                        "url": "https://pbs.twimg.com/card_img/1871837350520893440/_oUyf--K?format=png&name=420x420_2"
+                                    },
+                                    "type": "IMAGE"
+                                }
+                            },
+                            {
+                                "key": "thumbnail_image_original",
+                                "value": {
+                                    "image_value": {
+                                        "height": 400,
+                                        "width": 400,
+                                        "url": "https://pbs.twimg.com/card_img/1871837350520893440/_oUyf--K?format=png&name=orig"
+                                    },
+                                    "type": "IMAGE"
+                                }
+                            },
+                            {
+                                "key": "site",
+                                "value": {
+                                    "scribe_key": "publisher_id",
+                                    "type": "USER",
+                                    "user_value": {
+                                        "id_str": "13334762",
+                                        "path": []
+                                    }
+                                }
+                            },
+                            {
+                                "key": "thumbnail_image_small",
+                                "value": {
+                                    "image_value": {
+                                        "height": 100,
+                                        "width": 100,
+                                        "url": "https://pbs.twimg.com/card_img/1871837350520893440/_oUyf--K?format=png&name=100x100_2"
+                                    },
+                                    "type": "IMAGE"
+                                }
+                            },
+                            {
+                                "key": "thumbnail_image_x_large",
+                                "value": {
+                                    "image_value": {
+                                        "height": 400,
+                                        "width": 400,
+                                        "url": "https://pbs.twimg.com/card_img/1871837350520893440/_oUyf--K?format=png&name=2048x2048_2_exp"
+                                    },
+                                    "type": "IMAGE"
+                                }
+                            },
+                            {
+                                "key": "thumbnail_image_alt_text",
+                                "value": {
+                                    "string_value": "Hi I'm Marco and I work on Node.js",
+                                    "type": "STRING"
+                                }
+                            },
+                            {
+                                "key": "vanity_url",
+                                "value": {
+                                    "scribe_key": "vanity_url",
+                                    "string_value": "github.com",
+                                    "type": "STRING"
+                                }
+                            },
+                            {
+                                "key": "thumbnail_image_color",
+                                "value": {
+                                    "image_color_value": {
+                                        "palette": [
+                                            {
+                                                "rgb": {
+                                                    "blue": 93,
+                                                    "green": 51,
+                                                    "red": 34
+                                                },
+                                                "percentage": 36.85
+                                            },
+                                            {
+                                                "rgb": {
+                                                    "blue": 10,
+                                                    "green": 10,
+                                                    "red": 11
+                                                },
+                                                "percentage": 21.78
+                                            },
+                                            {
+                                                "rgb": {
+                                                    "blue": 130,
+                                                    "green": 165,
+                                                    "red": 204
+                                                },
+                                                "percentage": 16.56
+                                            },
+                                            {
+                                                "rgb": {
+                                                    "blue": 178,
+                                                    "green": 170,
+                                                    "red": 149
+                                                },
+                                                "percentage": 5.96
+                                            },
+                                            {
+                                                "rgb": {
+                                                    "blue": 73,
+                                                    "green": 97,
+                                                    "red": 139
+                                                },
+                                                "percentage": 4.55
+                                            }
+                                        ]
+                                    },
+                                    "type": "IMAGE_COLOR"
+                                }
+                            },
+                            {
+                                "key": "title",
+                                "value": {
+                                    "string_value": "Sponsor @marco-ippolito on GitHub Sponsors",
+                                    "type": "STRING"
+                                }
+                            },
+                            {
+                                "key": "card_url",
+                                "value": {
+                                    "scribe_key": "card_url",
+                                    "string_value": "https://t.co/TtpzMCeAdO",
+                                    "type": "STRING"
+                                }
+                            }
+                        ],
+                        "card_platform": {
+                            "platform": {
+                                "audience": {
+                                    "name": "production"
+                                },
+                                "device": {
+                                    "name": "Swift",
+                                    "version": "12"
+                                }
+                            }
+                        },
+                        "name": "summary",
+                        "url": "https://t.co/TtpzMCeAdO",
+                        "user_refs_results": [
+                            {
+                                "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjoxMzMzNDc2Mg==",
+                                    "rest_id": "13334762",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Square",
+                                    "legacy": {
+                                        "following": false,
+                                        "can_dm": false,
+                                        "can_media_tag": true,
+                                        "created_at": "Mon Feb 11 04:41:50 +0000 2008",
+                                        "default_profile": false,
+                                        "default_profile_image": false,
+                                        "description": "The AI-powered developer platform to build, scale, and deliver secure software.",
+                                        "entities": {
+                                            "description": {
+                                                "urls": []
+                                            },
+                                            "url": {
+                                                "urls": [
+                                                    {
+                                                        "display_url": "github.com",
+                                                        "expanded_url": "http://github.com",
+                                                        "url": "https://t.co/bbJgfyzcJR",
+                                                        "indices": [
+                                                            0,
+                                                            23
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "fast_followers_count": 0,
+                                        "favourites_count": 8213,
+                                        "followers_count": 2609052,
+                                        "friends_count": 337,
+                                        "has_custom_timelines": true,
+                                        "is_translator": false,
+                                        "listed_count": 17971,
+                                        "location": "San Francisco, CA",
+                                        "media_count": 2498,
+                                        "name": "GitHub",
+                                        "normal_followers_count": 2609052,
+                                        "pinned_tweet_ids_str": [
+                                            "1869447551876788359"
+                                        ],
+                                        "possibly_sensitive": false,
+                                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13334762/1721228108",
+                                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1633247750010830848/8zfRrYjA_normal.png",
+                                        "profile_interstitial_type": "",
+                                        "screen_name": "github",
+                                        "statuses_count": 9373,
+                                        "translator_type": "none",
+                                        "url": "https://t.co/bbJgfyzcJR",
+                                        "verified": false,
+                                        "verified_type": "Business",
+                                        "want_retweets": false,
+                                        "withheld_in_countries": []
+                                    },
+                                    "tipjar_settings": {}
+                                }
+                            }
+                        ]
+                    }
+                },
+                "place": {},
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [
+                        {
+                            "display_url": "github.com/sponsors/marco\u2026",
+                            "expanded_url": "https://github.com/sponsors/marco-ippolito",
+                            "url": "https://t.co/TtpzMCeAdO",
+                            "indices": [
+                                206,
+                                229
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "id_str": "894590724322213888",
+                            "name": "Anthony Fu \ud83e\udd8b @antfu.me",
+                            "screen_name": "antfu7",
+                            "indices": [
+                                154,
+                                161
+                            ]
+                        }
+                    ]
+                }
+            },
+            "isQuote": false,
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1873315187782258888",
+            "url": "https://x.com/mattpocockuk/status/1873315187782258888",
+            "twitterUrl": "https://twitter.com/mattpocockuk/status/1873315187782258888",
+            "text": "RT @satanacchio: TypeScript support in @nodejs would have not been possible without @swc_rs and @kdy1dev \ud83d\udc10\nThey shipped type stripping with\u2026",
+            "fullText": "RT @satanacchio: TypeScript support in @nodejs would have not been possible without @swc_rs and @kdy1dev \ud83d\udc10\nThey shipped type stripping with\u2026",
+            "source": "Twitter Web App",
+            "retweetCount": 6,
+            "replyCount": 2,
+            "likeCount": 49,
+            "quoteCount": 0,
+            "viewCount": 4110,
+            "createdAt": "Sun Dec 29 10:28:39 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 3,
+            "isReply": false,
+            "conversationId": "1873315187782258888",
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "mattpocockuk",
+                "url": "https://x.com/mattpocockuk",
+                "twitterUrl": "https://twitter.com/mattpocockuk",
+                "id": "346640777",
+                "name": "Matt Pocock",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/346640777/1658411534",
+                "description": "Full-time TS/AI educator. Ex-@vercel, @statelyai. Used to be a voice coach. He/him. Author of Total TypeScript \ud83e\uddd9 Hire me to teach your team TypeScript!",
+                "location": "Oxford, England",
+                "followers": 170062,
+                "following": 650,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Mon Aug 01 16:08:26 +0000 2011",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "totaltypescript.com",
+                                "expanded_url": "https://totaltypescript.com",
+                                "url": "https://t.co/7tEg5DN7Vw",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 52066,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 2083,
+                "statusesCount": 24654,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1863670853910569191"
+                ]
+            },
+            "extendedEntities": {},
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "2309546307",
+                        "name": "Marco Ippolito",
+                        "screen_name": "satanacchio",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "id_str": "91985735",
+                        "name": "Node.js",
+                        "screen_name": "nodejs",
+                        "indices": [
+                            39,
+                            46
+                        ]
+                    },
+                    {
+                        "id_str": "1395924404610093060",
+                        "name": "SWC",
+                        "screen_name": "swc_rs",
+                        "indices": [
+                            84,
+                            91
+                        ]
+                    },
+                    {
+                        "id_str": "716328412042756096",
+                        "name": "\u25b2 Donny (\uac15\ub3d9\uc724)",
+                        "screen_name": "kdy1dev",
+                        "indices": [
+                            96,
+                            104
+                        ]
+                    }
+                ]
+            },
+            "isRetweet": true,
+            "retweet": {
+                "type": "tweet",
+                "id": "1873313053875617919",
+                "text": "TypeScript support in @nodejs would have not been possible without @swc_rs and @kdy1dev \ud83d\udc10\nThey shipped type stripping with blank spaces in just a few days and kept supporting us \u2b50\ufe0f",
+                "source": "Twitter Web App",
+                "retweetCount": 6,
+                "replyCount": 2,
+                "likeCount": 49,
+                "quoteCount": 0,
+                "viewCount": 4110,
+                "createdAt": "Sun Dec 29 10:20:11 +0000 2024",
+                "lang": "en",
+                "bookmarkCount": 3,
+                "isPinned": false,
+                "author": {
+                    "type": "user",
+                    "userName": "satanacchio",
+                    "url": "https://x.com/satanacchio",
+                    "twitterUrl": "https://twitter.com/satanacchio",
+                    "id": "2309546307",
+                    "name": "Marco Ippolito",
+                    "isVerified": false,
+                    "isBlueVerified": false,
+                    "profilePicture": "https://pbs.twimg.com/profile_images/1862680234832584704/9HFMybEb_normal.jpg",
+                    "coverPicture": "https://pbs.twimg.com/profile_banners/2309546307/1733347483",
+                    "description": "\ud83d\udc68\u200d\ud83d\udcbb Security Engineer @herodevs\n\ud83d\udc9a @nodejs Technical Steering Committee | Releaser | Security Team",
+                    "location": "",
+                    "followers": 1670,
+                    "following": 407,
+                    "status": "",
+                    "canDm": false,
+                    "canMediaTag": true,
+                    "createdAt": "Tue Jan 28 10:39:14 +0000 2014",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "marcoippolito.dev",
+                                    "expanded_url": "http://marcoippolito.dev",
+                                    "url": "https://t.co/a8dVQDUkHd",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 2988,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "mediaCount": 170,
+                    "statusesCount": 1406,
+                    "withheldInCountries": [],
+                    "affiliatesHighlightedLabel": {},
+                    "possiblySensitive": false,
+                    "pinnedTweetIds": [
+                        "1871836682422817113"
+                    ]
+                },
+                "extendedEntities": {},
+                "card": {},
+                "place": {},
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "91985735",
+                            "name": "Node.js",
+                            "screen_name": "nodejs",
+                            "indices": [
+                                22,
+                                29
+                            ]
+                        },
+                        {
+                            "id_str": "1395924404610093060",
+                            "name": "SWC",
+                            "screen_name": "swc_rs",
+                            "indices": [
+                                67,
+                                74
+                            ]
+                        },
+                        {
+                            "id_str": "716328412042756096",
+                            "name": "\u25b2 Donny (\uac15\ub3d9\uc724)",
+                            "screen_name": "kdy1dev",
+                            "indices": [
+                                79,
+                                87
+                            ]
+                        }
+                    ]
+                }
+            },
+            "isQuote": false,
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1873029187810017297",
+            "url": "https://x.com/mattpocockuk/status/1873029187810017297",
+            "twitterUrl": "https://twitter.com/mattpocockuk/status/1873029187810017297",
+            "text": "\ud83d\udc40\ud83d\udc40\ud83d\udc40\n\nSupport for images, files etc coming to Evalite\n\nhttps://t.co/kS5c5EwQBm",
+            "fullText": "\ud83d\udc40\ud83d\udc40\ud83d\udc40\n\nSupport for images, files etc coming to Evalite\n\nhttps://t.co/kS5c5EwQBm",
+            "source": "Twitter Web App",
+            "retweetCount": 1,
+            "replyCount": 0,
+            "likeCount": 32,
+            "quoteCount": 0,
+            "viewCount": 6219,
+            "createdAt": "Sat Dec 28 15:32:12 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 5,
+            "isReply": false,
+            "conversationId": "1873029187810017297",
+            "possiblySensitive": false,
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "mattpocockuk",
+                "url": "https://x.com/mattpocockuk",
+                "twitterUrl": "https://twitter.com/mattpocockuk",
+                "id": "346640777",
+                "name": "Matt Pocock",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/346640777/1658411534",
+                "description": "Full-time TS/AI educator. Ex-@vercel, @statelyai. Used to be a voice coach. He/him. Author of Total TypeScript \ud83e\uddd9 Hire me to teach your team TypeScript!",
+                "location": "Oxford, England",
+                "followers": 170062,
+                "following": 650,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Mon Aug 01 16:08:26 +0000 2011",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "totaltypescript.com",
+                                "expanded_url": "https://totaltypescript.com",
+                                "url": "https://t.co/7tEg5DN7Vw",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 52066,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 2083,
+                "statusesCount": 24654,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1863670853910569191"
+                ]
+            },
+            "extendedEntities": {},
+            "card": {
+                "rest_id": "https://t.co/kS5c5EwQBm",
+                "legacy": {
+                    "binding_values": [
+                        {
+                            "key": "photo_image_full_size_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 419,
+                                    "width": 800,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=800x419"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image",
+                            "value": {
+                                "image_value": {
+                                    "height": 200,
+                                    "width": 400,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=400x400"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "domain",
+                            "value": {
+                                "string_value": "github.com",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 300,
+                                    "width": 600,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=600x600"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_small",
+                            "value": {
+                                "image_value": {
+                                    "height": 202,
+                                    "width": 386,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=386x202"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_original",
+                            "value": {
+                                "image_value": {
+                                    "height": 600,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=orig"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "site",
+                            "value": {
+                                "scribe_key": "publisher_id",
+                                "type": "USER",
+                                "user_value": {
+                                    "id_str": "13334762",
+                                    "path": []
+                                }
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_small",
+                            "value": {
+                                "image_value": {
+                                    "height": 202,
+                                    "width": 386,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=386x202"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 419,
+                                    "width": 800,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=800x419"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_small",
+                            "value": {
+                                "image_value": {
+                                    "height": 72,
+                                    "width": 144,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=144x144"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_x_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 600,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=png&name=2048x2048_2_exp"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_original",
+                            "value": {
+                                "image_value": {
+                                    "height": 600,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=orig"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "vanity_url",
+                            "value": {
+                                "scribe_key": "vanity_url",
+                                "string_value": "github.com",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size",
+                            "value": {
+                                "image_value": {
+                                    "height": 314,
+                                    "width": 600,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=600x314"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "thumbnail_image_color",
+                            "value": {
+                                "image_color_value": {
+                                    "palette": [
+                                        {
+                                            "rgb": {
+                                                "blue": 255,
+                                                "green": 255,
+                                                "red": 255
+                                            },
+                                            "percentage": 91.44
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 198,
+                                                "green": 120,
+                                                "red": 49
+                                            },
+                                            "percentage": 4.32
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 122,
+                                                "green": 122,
+                                                "red": 122
+                                            },
+                                            "percentage": 2.88
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 143,
+                                                "green": 160,
+                                                "red": 213
+                                            },
+                                            "percentage": 0.31
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 202,
+                                                "green": 234,
+                                                "red": 189
+                                            },
+                                            "percentage": 0.28
+                                        }
+                                    ]
+                                },
+                                "type": "IMAGE_COLOR"
+                            }
+                        },
+                        {
+                            "key": "title",
+                            "value": {
+                                "string_value": "Support images, files and PDF's by mattpocock \u00b7 Pull Request #81 \u00b7 mattpocock/evalite",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_color",
+                            "value": {
+                                "image_color_value": {
+                                    "palette": [
+                                        {
+                                            "rgb": {
+                                                "blue": 255,
+                                                "green": 255,
+                                                "red": 255
+                                            },
+                                            "percentage": 91.44
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 198,
+                                                "green": 120,
+                                                "red": 49
+                                            },
+                                            "percentage": 4.32
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 122,
+                                                "green": 122,
+                                                "red": 122
+                                            },
+                                            "percentage": 2.88
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 143,
+                                                "green": 160,
+                                                "red": 213
+                                            },
+                                            "percentage": 0.31
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 202,
+                                                "green": 234,
+                                                "red": 189
+                                            },
+                                            "percentage": 0.28
+                                        }
+                                    ]
+                                },
+                                "type": "IMAGE_COLOR"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_x_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 600,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=png&name=2048x2048_2_exp"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image",
+                            "value": {
+                                "image_value": {
+                                    "height": 314,
+                                    "width": 600,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=600x314"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_color",
+                            "value": {
+                                "image_color_value": {
+                                    "palette": [
+                                        {
+                                            "rgb": {
+                                                "blue": 255,
+                                                "green": 255,
+                                                "red": 255
+                                            },
+                                            "percentage": 91.44
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 198,
+                                                "green": 120,
+                                                "red": 49
+                                            },
+                                            "percentage": 4.32
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 122,
+                                                "green": 122,
+                                                "red": 122
+                                            },
+                                            "percentage": 2.88
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 143,
+                                                "green": 160,
+                                                "red": 213
+                                            },
+                                            "percentage": 0.31
+                                        },
+                                        {
+                                            "rgb": {
+                                                "blue": 202,
+                                                "green": 234,
+                                                "red": 189
+                                            },
+                                            "percentage": 0.28
+                                        }
+                                    ]
+                                },
+                                "type": "IMAGE_COLOR"
+                            }
+                        },
+                        {
+                            "key": "photo_image_full_size_x_large",
+                            "value": {
+                                "image_value": {
+                                    "height": 600,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=png&name=2048x2048_2_exp"
+                                },
+                                "type": "IMAGE"
+                            }
+                        },
+                        {
+                            "key": "card_url",
+                            "value": {
+                                "scribe_key": "card_url",
+                                "string_value": "https://t.co/kS5c5EwQBm",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "summary_photo_image_original",
+                            "value": {
+                                "image_value": {
+                                    "height": 600,
+                                    "width": 1200,
+                                    "url": "https://pbs.twimg.com/card_img/1873029084768354304/co0Ngvdz?format=jpg&name=orig"
+                                },
+                                "type": "IMAGE"
+                            }
+                        }
+                    ],
+                    "card_platform": {
+                        "platform": {
+                            "audience": {
+                                "name": "production"
+                            },
+                            "device": {
+                                "name": "Swift",
+                                "version": "12"
+                            }
+                        }
+                    },
+                    "name": "summary_large_image",
+                    "url": "https://t.co/kS5c5EwQBm",
+                    "user_refs_results": [
+                        {
+                            "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMzMzNDc2Mg==",
+                                "rest_id": "13334762",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": true,
+                                "profile_image_shape": "Square",
+                                "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": true,
+                                    "created_at": "Mon Feb 11 04:41:50 +0000 2008",
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "The AI-powered developer platform to build, scale, and deliver secure software.",
+                                    "entities": {
+                                        "description": {
+                                            "urls": []
+                                        },
+                                        "url": {
+                                            "urls": [
+                                                {
+                                                    "display_url": "github.com",
+                                                    "expanded_url": "http://github.com",
+                                                    "url": "https://t.co/bbJgfyzcJR",
+                                                    "indices": [
+                                                        0,
+                                                        23
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 8213,
+                                    "followers_count": 2609052,
+                                    "friends_count": 337,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 17971,
+                                    "location": "San Francisco, CA",
+                                    "media_count": 2498,
+                                    "name": "GitHub",
+                                    "normal_followers_count": 2609052,
+                                    "pinned_tweet_ids_str": [
+                                        "1869447551876788359"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/13334762/1721228108",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1633247750010830848/8zfRrYjA_normal.png",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "github",
+                                    "statuses_count": 9373,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/bbJgfyzcJR",
+                                    "verified": false,
+                                    "verified_type": "Business",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                },
+                                "tipjar_settings": {}
+                            }
+                        }
+                    ]
+                }
+            },
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "github.com/mattpocock/eva\u2026",
+                        "expanded_url": "https://github.com/mattpocock/evalite/pull/81",
+                        "url": "https://t.co/kS5c5EwQBm",
+                        "indices": [
+                            54,
+                            77
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "isRetweet": false,
+            "isQuote": false,
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        }
+    ]
+}

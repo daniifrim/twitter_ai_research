@@ -1,0 +1,3180 @@
+{
+    "summary": "# Weekly Insights on AI Agents and Developments\n\n**Information taken from analysis of 7 tweets**\n\n## Key Highlights in AI Agents\n\nThe landscape of AI agents continues to evolve with exciting developments and implementations. This week, several noteworthy updates have been shared, highlighting advancements and new projects in the field of AI agents.\n\n### AI Agent Innovations\n\n- **AI Agent for Information Gathering**: An intriguing development by @7etsuo involves an AI agent capable of gathering information based on a social media name, real name, or email. This agent can break down queries into search terms, search the web, and retrieve relevant information. Such a tool could be highly beneficial for businesses looking to streamline their information-gathering processes. [Source](https://t.co/RHlcXbekft)\n\n### Architectural Advancements\n\n- **AgentOps 0.4.x Release**: @AlexReibman has announced the progression of AgentOps 0.4.x, indicating significant architectural advancements in AI agent operations. This update suggests a promising year ahead in 2025 for AI technology, potentially offering new capabilities for automation solutions. [Source](https://t.co/AqPfS99hyp)\n\n### Technical Enhancements\n\n- **TypeScript Support in Node.js**: The integration of TypeScript support in Node.js, facilitated by @swc_rs and @kdy1dev, marks a significant technical enhancement. This development could simplify the process for developers working with AI coding agents, making it easier to implement robust applications. [Source](https://t.co/AqPfS99hyp)\n\n### Community and Resources\n\n- For continuous updates on AI agents, following influencers like @AtomSilverman and @AgentOpsAI is recommended. They provide regular insights and threads dedicated to the latest in AI agent technology. [Source](https://t.co/Pdbj5B5hBM)\n\n## Conclusion\n\nThe week has shown substantial progress in AI agents, from practical applications in information gathering to architectural and technical advancements. These developments align well with interests in AI automation and coding, offering new avenues for exploration and implementation in business solutions. As the field continues to grow, staying informed through key industry figures and updates will be essential for leveraging AI's full potential.",
+    "tweets": [
+        {
+            "type": "tweet",
+            "id": "1872750184549294375",
+            "url": "https://x.com/AtomSilverman/status/1872750184549294375",
+            "twitterUrl": "https://twitter.com/AtomSilverman/status/1872750184549294375",
+            "text": "Here is everything that happened in AI Agents this week \ud83e\uddf5\u00a0\n\n(save for later) https://t.co/y5bBhyN4eB",
+            "fullText": "Here is everything that happened in AI Agents this week \ud83e\uddf5\u00a0\n\n(save for later) https://t.co/y5bBhyN4eB",
+            "source": "Twitter for iPhone",
+            "retweetCount": 110,
+            "replyCount": 29,
+            "likeCount": 886,
+            "quoteCount": 12,
+            "viewCount": 139208,
+            "createdAt": "Fri Dec 27 21:03:32 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 1691,
+            "isReply": false,
+            "conversationId": "1872750184549294375",
+            "possiblySensitive": false,
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "AtomSilverman",
+                "url": "https://x.com/AtomSilverman",
+                "twitterUrl": "https://twitter.com/AtomSilverman",
+                "id": "1134462942018179073",
+                "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1693795710146142208/L4DA14IF_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/1134462942018179073/1724350632",
+                "description": "Our mission is to make the next 1 billion agents fast, safe, and reliable @AgentOpsAI  \ud83d\udcbb prev @BiltRewards & sold HDM to @Gamelancer",
+                "location": "Free list of 400+ Agents \ud83d\udd87\ufe0f \u2192",
+                "followers": 20928,
+                "following": 1738,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Fri May 31 14:13:37 +0000 2019",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "agen.cy",
+                                "expanded_url": "http://agen.cy",
+                                "url": "https://t.co/5D2qQSiTDV",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 4061,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 627,
+                "statusesCount": 3652,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1828811254409871708"
+                ]
+            },
+            "extendedEntities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/y5bBhyN4eB",
+                        "expanded_url": "https://x.com/AtomSilverman/status/1872750184549294375/photo/1",
+                        "ext_alt_text": "marketplace.agen.cy Best Agents From AgentOps, AgentStack, Agency AI. AgentOps\nNelima\nAdala\nAgent4Rec\nAgentForge\nAgentGPT\nAgentPilot\nAgents\nAgentVerse\nAI Legion\nAider\nAIlice\nAutoGen\nAutoGPT\nAutomata\nAutoPR\nAutonomous HR Chatbot\nBabyAGI\nBabyBeeAGI\nBabyCatAGI\nBabyDeerAGI\nBabyElfAGI\nBabyCommandAGI\nBabyFoxAGI\nBambooAI\nBeeBot\nBloop\nBondAI\nbumpgen\nCal.ai\nCAMEL\nChatArena\nChatDev\nChem Crow\nClippy\nCodeFuse-ChatBot\nCody by ajhous44\nContinue\nCrewAI\nDataberry\nDemoGPT\nDevGPT\nDevika\nDevon\nDevOpsGPT\ndotagent\nEidolon\nEnglish Compiler\nevo.ninja\nFlowise AI\nFriday\nGeniA\nGodMode\nGPT Discord\nGPT Engineer\nGPT Migrate\nGPT Pilot\nGPT Researcher\nGPT Runner\nGPTSwarm\nIX\nJARVIS\nLangroid\nLemon Agent\nLLM Agents\nLLM Stack\nLoop GPT\nL2MAC\nMaige\nMagick\nMemGPT MetaGPT\nMini AGI\nMultiagent Debate\nNLSOM\nOpenAgents\nOpenAGI\nOpenDevin\nOpenInterpreter\nPezzo\nPrivate GPT\nPromethAI\nReact Agent\nSelf-operating computer\nSmol Developer\nStackwise\nSuperAgent\nSuperAGI\nSuspicion Agent\nSWE Agent\nSweep Taxy AI\nTeenage AGI\n\nVanna.AI\nVoyager",
+                        "id_str": "1872750179553820672",
+                        "indices": [
+                            77,
+                            100
+                        ],
+                        "media_key": "3_1872750179553820672",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf1YXbVawAASxCV.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/y5bBhyN4eB",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "all": {
+                                "tags": [
+                                    {
+                                        "user_id": "1717013899617468416",
+                                        "name": "AgentOps \ud83d\udd87\ufe0f",
+                                        "screen_name": "AgentOpsAI",
+                                        "type": "user"
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 1133,
+                                        "y": 145,
+                                        "h": 79,
+                                        "w": 79
+                                    },
+                                    {
+                                        "x": 935,
+                                        "y": 75,
+                                        "h": 155,
+                                        "w": 155
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 664,
+                                        "y": 85,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 548,
+                                        "y": 44,
+                                        "h": 91,
+                                        "w": 91
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 376,
+                                        "y": 48,
+                                        "h": 26,
+                                        "w": 26
+                                    },
+                                    {
+                                        "x": 310,
+                                        "y": 25,
+                                        "h": 51,
+                                        "w": 51
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 1337,
+                                        "y": 172,
+                                        "h": 94,
+                                        "w": 94
+                                    },
+                                    {
+                                        "x": 1104,
+                                        "y": 89,
+                                        "h": 184,
+                                        "w": 184
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1302,
+                                "w": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 763,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 432,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1536,
+                            "width": 2416,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2416,
+                                    "h": 1353
+                                },
+                                {
+                                    "x": 440,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 535,
+                                    "y": 0,
+                                    "w": 1347,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 824,
+                                    "y": 0,
+                                    "w": 768,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2416,
+                                    "h": 1536
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1872750179553820672"
+                            }
+                        }
+                    }
+                ]
+            },
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/y5bBhyN4eB",
+                        "expanded_url": "https://x.com/AtomSilverman/status/1872750184549294375/photo/1",
+                        "ext_alt_text": "marketplace.agen.cy Best Agents From AgentOps, AgentStack, Agency AI. AgentOps\nNelima\nAdala\nAgent4Rec\nAgentForge\nAgentGPT\nAgentPilot\nAgents\nAgentVerse\nAI Legion\nAider\nAIlice\nAutoGen\nAutoGPT\nAutomata\nAutoPR\nAutonomous HR Chatbot\nBabyAGI\nBabyBeeAGI\nBabyCatAGI\nBabyDeerAGI\nBabyElfAGI\nBabyCommandAGI\nBabyFoxAGI\nBambooAI\nBeeBot\nBloop\nBondAI\nbumpgen\nCal.ai\nCAMEL\nChatArena\nChatDev\nChem Crow\nClippy\nCodeFuse-ChatBot\nCody by ajhous44\nContinue\nCrewAI\nDataberry\nDemoGPT\nDevGPT\nDevika\nDevon\nDevOpsGPT\ndotagent\nEidolon\nEnglish Compiler\nevo.ninja\nFlowise AI\nFriday\nGeniA\nGodMode\nGPT Discord\nGPT Engineer\nGPT Migrate\nGPT Pilot\nGPT Researcher\nGPT Runner\nGPTSwarm\nIX\nJARVIS\nLangroid\nLemon Agent\nLLM Agents\nLLM Stack\nLoop GPT\nL2MAC\nMaige\nMagick\nMemGPT MetaGPT\nMini AGI\nMultiagent Debate\nNLSOM\nOpenAgents\nOpenAGI\nOpenDevin\nOpenInterpreter\nPezzo\nPrivate GPT\nPromethAI\nReact Agent\nSelf-operating computer\nSmol Developer\nStackwise\nSuperAgent\nSuperAGI\nSuspicion Agent\nSWE Agent\nSweep Taxy AI\nTeenage AGI\n\nVanna.AI\nVoyager",
+                        "id_str": "1872750179553820672",
+                        "indices": [
+                            77,
+                            100
+                        ],
+                        "media_key": "3_1872750179553820672",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf1YXbVawAASxCV.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/y5bBhyN4eB",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "all": {
+                                "tags": [
+                                    {
+                                        "user_id": "1717013899617468416",
+                                        "name": "AgentOps \ud83d\udd87\ufe0f",
+                                        "screen_name": "AgentOpsAI",
+                                        "type": "user"
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 1133,
+                                        "y": 145,
+                                        "h": 79,
+                                        "w": 79
+                                    },
+                                    {
+                                        "x": 935,
+                                        "y": 75,
+                                        "h": 155,
+                                        "w": 155
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 664,
+                                        "y": 85,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 548,
+                                        "y": 44,
+                                        "h": 91,
+                                        "w": 91
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 376,
+                                        "y": 48,
+                                        "h": 26,
+                                        "w": 26
+                                    },
+                                    {
+                                        "x": 310,
+                                        "y": 25,
+                                        "h": 51,
+                                        "w": 51
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 1337,
+                                        "y": 172,
+                                        "h": 94,
+                                        "w": 94
+                                    },
+                                    {
+                                        "x": 1104,
+                                        "y": 89,
+                                        "h": 184,
+                                        "w": 184
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1302,
+                                "w": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 763,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 432,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1536,
+                            "width": 2416,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2416,
+                                    "h": 1353
+                                },
+                                {
+                                    "x": 440,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 535,
+                                    "y": 0,
+                                    "w": 1347,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 824,
+                                    "y": 0,
+                                    "w": 768,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2416,
+                                    "h": 1536
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1872750179553820672"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "isRetweet": false,
+            "isQuote": false,
+            "media": [
+                "https://pbs.twimg.com/media/Gf1YXbVawAASxCV.jpg"
+            ],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1873063064293261368",
+            "url": "https://x.com/mattpocockuk/status/1873063064293261368",
+            "twitterUrl": "https://twitter.com/mattpocockuk/status/1873063064293261368",
+            "text": "I have spent many years in search of product market fit https://t.co/AqPfS99hyp",
+            "fullText": "I have spent many years in search of product market fit https://t.co/AqPfS99hyp",
+            "source": "Twitter for Android",
+            "retweetCount": 0,
+            "replyCount": 25,
+            "likeCount": 286,
+            "quoteCount": 0,
+            "viewCount": 17063,
+            "createdAt": "Sat Dec 28 17:46:49 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 9,
+            "isReply": false,
+            "conversationId": "1873063064293261368",
+            "possiblySensitive": false,
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "mattpocockuk",
+                "url": "https://x.com/mattpocockuk",
+                "twitterUrl": "https://twitter.com/mattpocockuk",
+                "id": "346640777",
+                "name": "Matt Pocock",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/346640777/1658411534",
+                "description": "Full-time TS/AI educator. Ex-@vercel, @statelyai. Used to be a voice coach. He/him. Author of Total TypeScript \ud83e\uddd9 Hire me to teach your team TypeScript!",
+                "location": "Oxford, England",
+                "followers": 170061,
+                "following": 650,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Mon Aug 01 16:08:26 +0000 2011",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "totaltypescript.com",
+                                "expanded_url": "https://totaltypescript.com",
+                                "url": "https://t.co/7tEg5DN7Vw",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 52066,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 2083,
+                "statusesCount": 24654,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1863670853910569191"
+                ]
+            },
+            "extendedEntities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/AqPfS99hyp",
+                        "expanded_url": "https://x.com/mattpocockuk/status/1873063064293261368/photo/1",
+                        "id_str": "1873063060639801344",
+                        "indices": [
+                            56,
+                            79
+                        ],
+                        "media_key": "3_1873063060639801344",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf507gNXYAAGwH1.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/AqPfS99hyp",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 206,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 294,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 385,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 475,
+                                        "y": 515,
+                                        "h": 26,
+                                        "w": 26
+                                    },
+                                    {
+                                        "x": 38,
+                                        "y": 414,
+                                        "h": 33,
+                                        "w": 33
+                                    },
+                                    {
+                                        "x": 101,
+                                        "y": 57,
+                                        "h": 195,
+                                        "w": 195
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1025,
+                                "w": 1179,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1025,
+                                "w": 1179,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 591,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1025,
+                            "width": 1179,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 230,
+                                    "w": 1179,
+                                    "h": 660
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1025,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 899,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 127,
+                                    "y": 0,
+                                    "w": 513,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1179,
+                                    "h": 1025
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1873063060639801344"
+                            }
+                        }
+                    }
+                ]
+            },
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/AqPfS99hyp",
+                        "expanded_url": "https://x.com/mattpocockuk/status/1873063064293261368/photo/1",
+                        "id_str": "1873063060639801344",
+                        "indices": [
+                            56,
+                            79
+                        ],
+                        "media_key": "3_1873063060639801344",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf507gNXYAAGwH1.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/AqPfS99hyp",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 206,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 294,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 385,
+                                        "y": 515,
+                                        "h": 25,
+                                        "w": 25
+                                    },
+                                    {
+                                        "x": 475,
+                                        "y": 515,
+                                        "h": 26,
+                                        "w": 26
+                                    },
+                                    {
+                                        "x": 38,
+                                        "y": 414,
+                                        "h": 33,
+                                        "w": 33
+                                    },
+                                    {
+                                        "x": 101,
+                                        "y": 57,
+                                        "h": 195,
+                                        "w": 195
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 358,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 511,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 668,
+                                        "y": 894,
+                                        "h": 44,
+                                        "w": 44
+                                    },
+                                    {
+                                        "x": 825,
+                                        "y": 894,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 718,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 176,
+                                        "y": 99,
+                                        "h": 339,
+                                        "w": 339
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1025,
+                                "w": 1179,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1025,
+                                "w": 1179,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 591,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1025,
+                            "width": 1179,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 230,
+                                    "w": 1179,
+                                    "h": 660
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1025,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 899,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 127,
+                                    "y": 0,
+                                    "w": 513,
+                                    "h": 1025
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1179,
+                                    "h": 1025
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1873063060639801344"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "isRetweet": false,
+            "isQuote": false,
+            "media": [
+                "https://pbs.twimg.com/media/Gf507gNXYAAGwH1.jpg"
+            ],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1873315187782258888",
+            "url": "https://x.com/mattpocockuk/status/1873315187782258888",
+            "twitterUrl": "https://twitter.com/mattpocockuk/status/1873315187782258888",
+            "text": "RT @satanacchio: TypeScript support in @nodejs would have not been possible without @swc_rs and @kdy1dev \ud83d\udc10\nThey shipped type stripping with\u2026",
+            "fullText": "RT @satanacchio: TypeScript support in @nodejs would have not been possible without @swc_rs and @kdy1dev \ud83d\udc10\nThey shipped type stripping with\u2026",
+            "source": "Twitter Web App",
+            "retweetCount": 6,
+            "replyCount": 2,
+            "likeCount": 49,
+            "quoteCount": 0,
+            "viewCount": 4017,
+            "createdAt": "Sun Dec 29 10:28:39 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 3,
+            "isReply": false,
+            "conversationId": "1873315187782258888",
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "mattpocockuk",
+                "url": "https://x.com/mattpocockuk",
+                "twitterUrl": "https://twitter.com/mattpocockuk",
+                "id": "346640777",
+                "name": "Matt Pocock",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/346640777/1658411534",
+                "description": "Full-time TS/AI educator. Ex-@vercel, @statelyai. Used to be a voice coach. He/him. Author of Total TypeScript \ud83e\uddd9 Hire me to teach your team TypeScript!",
+                "location": "Oxford, England",
+                "followers": 170061,
+                "following": 650,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Mon Aug 01 16:08:26 +0000 2011",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "totaltypescript.com",
+                                "expanded_url": "https://totaltypescript.com",
+                                "url": "https://t.co/7tEg5DN7Vw",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 52066,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 2083,
+                "statusesCount": 24654,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1863670853910569191"
+                ]
+            },
+            "extendedEntities": {},
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "2309546307",
+                        "name": "Marco Ippolito",
+                        "screen_name": "satanacchio",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "id_str": "91985735",
+                        "name": "Node.js",
+                        "screen_name": "nodejs",
+                        "indices": [
+                            39,
+                            46
+                        ]
+                    },
+                    {
+                        "id_str": "1395924404610093060",
+                        "name": "SWC",
+                        "screen_name": "swc_rs",
+                        "indices": [
+                            84,
+                            91
+                        ]
+                    },
+                    {
+                        "id_str": "716328412042756096",
+                        "name": "\u25b2 Donny (\uac15\ub3d9\uc724)",
+                        "screen_name": "kdy1dev",
+                        "indices": [
+                            96,
+                            104
+                        ]
+                    }
+                ]
+            },
+            "isRetweet": true,
+            "retweet": {
+                "type": "tweet",
+                "id": "1873313053875617919",
+                "text": "TypeScript support in @nodejs would have not been possible without @swc_rs and @kdy1dev \ud83d\udc10\nThey shipped type stripping with blank spaces in just a few days and kept supporting us \u2b50\ufe0f",
+                "source": "Twitter Web App",
+                "retweetCount": 6,
+                "replyCount": 2,
+                "likeCount": 49,
+                "quoteCount": 0,
+                "viewCount": 4017,
+                "createdAt": "Sun Dec 29 10:20:11 +0000 2024",
+                "lang": "en",
+                "bookmarkCount": 3,
+                "isPinned": false,
+                "author": {
+                    "type": "user",
+                    "userName": "satanacchio",
+                    "url": "https://x.com/satanacchio",
+                    "twitterUrl": "https://twitter.com/satanacchio",
+                    "id": "2309546307",
+                    "name": "Marco Ippolito",
+                    "isVerified": false,
+                    "isBlueVerified": false,
+                    "profilePicture": "https://pbs.twimg.com/profile_images/1862680234832584704/9HFMybEb_normal.jpg",
+                    "coverPicture": "https://pbs.twimg.com/profile_banners/2309546307/1733347483",
+                    "description": "\ud83d\udc68\u200d\ud83d\udcbb Security Engineer @herodevs\n\ud83d\udc9a @nodejs Technical Steering Committee | Releaser | Security Team",
+                    "location": "",
+                    "followers": 1670,
+                    "following": 407,
+                    "status": "",
+                    "canDm": false,
+                    "canMediaTag": true,
+                    "createdAt": "Tue Jan 28 10:39:14 +0000 2014",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "marcoippolito.dev",
+                                    "expanded_url": "http://marcoippolito.dev",
+                                    "url": "https://t.co/a8dVQDUkHd",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 2988,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "mediaCount": 170,
+                    "statusesCount": 1406,
+                    "withheldInCountries": [],
+                    "affiliatesHighlightedLabel": {},
+                    "possiblySensitive": false,
+                    "pinnedTweetIds": [
+                        "1871836682422817113"
+                    ]
+                },
+                "extendedEntities": {},
+                "card": {},
+                "place": {},
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "91985735",
+                            "name": "Node.js",
+                            "screen_name": "nodejs",
+                            "indices": [
+                                22,
+                                29
+                            ]
+                        },
+                        {
+                            "id_str": "1395924404610093060",
+                            "name": "SWC",
+                            "screen_name": "swc_rs",
+                            "indices": [
+                                67,
+                                74
+                            ]
+                        },
+                        {
+                            "id_str": "716328412042756096",
+                            "name": "\u25b2 Donny (\uac15\ub3d9\uc724)",
+                            "screen_name": "kdy1dev",
+                            "indices": [
+                                79,
+                                87
+                            ]
+                        }
+                    ]
+                }
+            },
+            "isQuote": false,
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1873089032185626749",
+            "url": "https://x.com/AtomSilverman/status/1873089032185626749",
+            "twitterUrl": "https://twitter.com/AtomSilverman/status/1873089032185626749",
+            "text": "RT @AlexReibman: Cooking up some new architecture, and now AgentOps 0.4.x is officially under way \ud83d\udd1c\n\n2025 is gonna be a great year https://\u2026",
+            "fullText": "RT @AlexReibman: Cooking up some new architecture, and now AgentOps 0.4.x is officially under way \ud83d\udd1c\n\n2025 is gonna be a great year https://\u2026",
+            "source": "Twitter for iPhone",
+            "retweetCount": 3,
+            "replyCount": 3,
+            "likeCount": 43,
+            "quoteCount": 1,
+            "viewCount": 3629,
+            "createdAt": "Sat Dec 28 19:30:00 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 8,
+            "isReply": false,
+            "conversationId": "1873089032185626749",
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "AtomSilverman",
+                "url": "https://x.com/AtomSilverman",
+                "twitterUrl": "https://twitter.com/AtomSilverman",
+                "id": "1134462942018179073",
+                "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1693795710146142208/L4DA14IF_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/1134462942018179073/1724350632",
+                "description": "Our mission is to make the next 1 billion agents fast, safe, and reliable @AgentOpsAI  \ud83d\udcbb prev @BiltRewards & sold HDM to @Gamelancer",
+                "location": "Free list of 400+ Agents \ud83d\udd87\ufe0f \u2192",
+                "followers": 20928,
+                "following": 1738,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Fri May 31 14:13:37 +0000 2019",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "agen.cy",
+                                "expanded_url": "http://agen.cy",
+                                "url": "https://t.co/5D2qQSiTDV",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 4061,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 627,
+                "statusesCount": 3652,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1828811254409871708"
+                ]
+            },
+            "extendedEntities": {},
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "999588600571400192",
+                        "name": "Alex Reibman \ud83d\udd87\ufe0f",
+                        "screen_name": "AlexReibman",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ]
+            },
+            "isRetweet": true,
+            "retweet": {
+                "type": "tweet",
+                "id": "1872882125646782829",
+                "text": "Cooking up some new architecture, and now AgentOps 0.4.x is officially under way \ud83d\udd1c\n\n2025 is gonna be a great year https://t.co/TDjFYvYYl0",
+                "source": "Twitter for iPhone",
+                "retweetCount": 3,
+                "replyCount": 3,
+                "likeCount": 43,
+                "quoteCount": 1,
+                "viewCount": 3629,
+                "createdAt": "Sat Dec 28 05:47:49 +0000 2024",
+                "lang": "en",
+                "bookmarkCount": 8,
+                "possiblySensitive": false,
+                "isPinned": false,
+                "author": {
+                    "type": "user",
+                    "userName": "AlexReibman",
+                    "url": "https://x.com/AlexReibman",
+                    "twitterUrl": "https://twitter.com/AlexReibman",
+                    "id": "999588600571400192",
+                    "name": "Alex Reibman \ud83d\udd87\ufe0f",
+                    "isVerified": false,
+                    "isBlueVerified": true,
+                    "profilePicture": "https://pbs.twimg.com/profile_images/1435753423161397248/6jG9r65f_normal.jpg",
+                    "coverPicture": "https://pbs.twimg.com/profile_banners/999588600571400192/1730227316",
+                    "description": "Co-founder/CEO https://t.co/xOANj2YgDR @agentopsai \ud83d\udd87\ufe0f Agents, ML, math, and data viz. Hack reporter\ud83d\udd76\ufe0f",
+                    "location": "\ud83c\udf09 Cerebral Valley",
+                    "followers": 35280,
+                    "following": 823,
+                    "status": "",
+                    "canDm": true,
+                    "canMediaTag": true,
+                    "createdAt": "Thu May 24 09:51:08 +0000 2018",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "agen.cy",
+                                    "expanded_url": "https://agen.cy",
+                                    "url": "https://t.co/xOANj2YgDR",
+                                    "indices": [
+                                        15,
+                                        38
+                                    ]
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "hacktrace.substack.com",
+                                    "expanded_url": "http://hacktrace.substack.com",
+                                    "url": "https://t.co/21YBLK7Qt0",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 12283,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "mediaCount": 1578,
+                    "statusesCount": 5250,
+                    "withheldInCountries": [],
+                    "affiliatesHighlightedLabel": {},
+                    "possiblySensitive": false,
+                    "pinnedTweetIds": [
+                        "1863862959681741285"
+                    ]
+                },
+                "extendedEntities": {
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/TDjFYvYYl0",
+                            "expanded_url": "https://x.com/AlexReibman/status/1872882125646782829/photo/1",
+                            "id_str": "1872882120282259458",
+                            "indices": [
+                                114,
+                                137
+                            ],
+                            "media_key": "3_1872882120282259458",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf3QXY2awAIDtTk.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/TDjFYvYYl0",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1717013899617468416",
+                                            "name": "AgentOps \ud83d\udd87\ufe0f",
+                                            "screen_name": "AgentOpsAI",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "894467421075058688",
+                                            "name": "Wayne Hamadi \ud83d\udd87\ufe0f",
+                                            "screen_name": "wayne_hamadi",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1496973393995964419",
+                                            "name": "Teo \ud83d\udd87\ufe0f",
+                                            "screen_name": "teocns",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 1466,
+                                            "y": 728,
+                                            "h": 68,
+                                            "w": 68
+                                        },
+                                        {
+                                            "x": 948,
+                                            "y": 718,
+                                            "h": 86,
+                                            "w": 86
+                                        },
+                                        {
+                                            "x": 436,
+                                            "y": 392,
+                                            "h": 340,
+                                            "w": 340
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 858,
+                                            "y": 426,
+                                            "h": 39,
+                                            "w": 39
+                                        },
+                                        {
+                                            "x": 555,
+                                            "y": 420,
+                                            "h": 50,
+                                            "w": 50
+                                        },
+                                        {
+                                            "x": 255,
+                                            "y": 229,
+                                            "h": 199,
+                                            "w": 199
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 486,
+                                            "y": 241,
+                                            "h": 22,
+                                            "w": 22
+                                        },
+                                        {
+                                            "x": 314,
+                                            "y": 238,
+                                            "h": 28,
+                                            "w": 28
+                                        },
+                                        {
+                                            "x": 144,
+                                            "y": 130,
+                                            "h": 112,
+                                            "w": 112
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 1466,
+                                            "y": 728,
+                                            "h": 68,
+                                            "w": 68
+                                        },
+                                        {
+                                            "x": 948,
+                                            "y": 718,
+                                            "h": 86,
+                                            "w": 86
+                                        },
+                                        {
+                                            "x": 436,
+                                            "y": 392,
+                                            "h": 340,
+                                            "w": 340
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1536,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 900,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1536,
+                                "width": 2048,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 389,
+                                        "w": 2048,
+                                        "h": 1147
+                                    },
+                                    {
+                                        "x": 409,
+                                        "y": 0,
+                                        "w": 1536,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 504,
+                                        "y": 0,
+                                        "w": 1347,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 793,
+                                        "y": 0,
+                                        "w": 768,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2048,
+                                        "h": 1536
+                                    }
+                                ]
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872882120282259458"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "card": {},
+                "place": {},
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/TDjFYvYYl0",
+                            "expanded_url": "https://x.com/AlexReibman/status/1872882125646782829/photo/1",
+                            "id_str": "1872882120282259458",
+                            "indices": [
+                                114,
+                                137
+                            ],
+                            "media_key": "3_1872882120282259458",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf3QXY2awAIDtTk.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/TDjFYvYYl0",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1717013899617468416",
+                                            "name": "AgentOps \ud83d\udd87\ufe0f",
+                                            "screen_name": "AgentOpsAI",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "894467421075058688",
+                                            "name": "Wayne Hamadi \ud83d\udd87\ufe0f",
+                                            "screen_name": "wayne_hamadi",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1496973393995964419",
+                                            "name": "Teo \ud83d\udd87\ufe0f",
+                                            "screen_name": "teocns",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 1466,
+                                            "y": 728,
+                                            "h": 68,
+                                            "w": 68
+                                        },
+                                        {
+                                            "x": 948,
+                                            "y": 718,
+                                            "h": 86,
+                                            "w": 86
+                                        },
+                                        {
+                                            "x": 436,
+                                            "y": 392,
+                                            "h": 340,
+                                            "w": 340
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 858,
+                                            "y": 426,
+                                            "h": 39,
+                                            "w": 39
+                                        },
+                                        {
+                                            "x": 555,
+                                            "y": 420,
+                                            "h": 50,
+                                            "w": 50
+                                        },
+                                        {
+                                            "x": 255,
+                                            "y": 229,
+                                            "h": 199,
+                                            "w": 199
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 486,
+                                            "y": 241,
+                                            "h": 22,
+                                            "w": 22
+                                        },
+                                        {
+                                            "x": 314,
+                                            "y": 238,
+                                            "h": 28,
+                                            "w": 28
+                                        },
+                                        {
+                                            "x": 144,
+                                            "y": 130,
+                                            "h": 112,
+                                            "w": 112
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 1466,
+                                            "y": 728,
+                                            "h": 68,
+                                            "w": 68
+                                        },
+                                        {
+                                            "x": 948,
+                                            "y": 718,
+                                            "h": 86,
+                                            "w": 86
+                                        },
+                                        {
+                                            "x": 436,
+                                            "y": 392,
+                                            "h": 340,
+                                            "w": 340
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1536,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 900,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1536,
+                                "width": 2048,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 389,
+                                        "w": 2048,
+                                        "h": 1147
+                                    },
+                                    {
+                                        "x": 409,
+                                        "y": 0,
+                                        "w": 1536,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 504,
+                                        "y": 0,
+                                        "w": 1347,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 793,
+                                        "y": 0,
+                                        "w": 768,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2048,
+                                        "h": 1536
+                                    }
+                                ]
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872882120282259458"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                }
+            },
+            "isQuote": false,
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1872750246629151083",
+            "url": "https://x.com/AtomSilverman/status/1872750246629151083",
+            "twitterUrl": "https://twitter.com/AtomSilverman/status/1872750246629151083",
+            "text": "23/\n@7etsuo built an AI Agent that can gather information on people given a social media name, real name, or email. You provide it with a query, and the AI agent breaks the query into search terms, uses those to search the web, retrieves the information\n\nhttps://t.co/RHlcXbekft",
+            "fullText": "23/\n@7etsuo built an AI Agent that can gather information on people given a social media name, real name, or email. You provide it with a query, and the AI agent breaks the query into search terms, uses those to search the web, retrieves the information\n\nhttps://t.co/RHlcXbekft",
+            "source": "Twitter for iPhone",
+            "retweetCount": 1,
+            "replyCount": 1,
+            "likeCount": 16,
+            "quoteCount": 0,
+            "viewCount": 2945,
+            "createdAt": "Fri Dec 27 21:03:47 +0000 2024",
+            "lang": "en",
+            "quoteId": "1872683887803142399",
+            "bookmarkCount": 12,
+            "isReply": true,
+            "inReplyToId": "1872750244485841378",
+            "conversationId": "1872750184549294375",
+            "inReplyToUserId": "1134462942018179073",
+            "inReplyToUsername": "AtomSilverman",
+            "possiblySensitive": false,
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "AtomSilverman",
+                "url": "https://x.com/AtomSilverman",
+                "twitterUrl": "https://twitter.com/AtomSilverman",
+                "id": "1134462942018179073",
+                "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1693795710146142208/L4DA14IF_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/1134462942018179073/1724350632",
+                "description": "Our mission is to make the next 1 billion agents fast, safe, and reliable @AgentOpsAI  \ud83d\udcbb prev @BiltRewards & sold HDM to @Gamelancer",
+                "location": "Free list of 400+ Agents \ud83d\udd87\ufe0f \u2192",
+                "followers": 20928,
+                "following": 1738,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Fri May 31 14:13:37 +0000 2019",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "agen.cy",
+                                "expanded_url": "http://agen.cy",
+                                "url": "https://t.co/5D2qQSiTDV",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 4061,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 627,
+                "statusesCount": 3652,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1828811254409871708"
+                ]
+            },
+            "extendedEntities": {},
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "x.com/7etsuo/status/\u2026",
+                        "expanded_url": "https://x.com/7etsuo/status/1872683887803142399",
+                        "url": "https://t.co/RHlcXbekft",
+                        "indices": [
+                            255,
+                            278
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "1587601034339561472",
+                        "name": "tetsuo.ai",
+                        "screen_name": "7etsuo",
+                        "indices": [
+                            4,
+                            11
+                        ]
+                    }
+                ]
+            },
+            "isRetweet": false,
+            "isQuote": true,
+            "quote": {
+                "type": "tweet",
+                "id": "1872683887803142399",
+                "text": "Wrote an AI agent that can be used to gather information on people given a social media name, real name, or email. You provide it with a query, and the AI agent breaks the query into search terms, uses those to search the web, retrieves the information, refines it, then breaks that information down into further search terms and iterates.",
+                "source": "Twitter Web App",
+                "retweetCount": 37,
+                "replyCount": 19,
+                "likeCount": 214,
+                "quoteCount": 2,
+                "viewCount": 14200,
+                "createdAt": "Fri Dec 27 16:40:06 +0000 2024",
+                "lang": "en",
+                "bookmarkCount": 50,
+                "possiblySensitive": false,
+                "isPinned": false,
+                "author": {
+                    "type": "user",
+                    "userName": "7etsuo",
+                    "url": "https://x.com/7etsuo",
+                    "twitterUrl": "https://twitter.com/7etsuo",
+                    "id": "1587601034339561472",
+                    "name": "tetsuo.ai",
+                    "isVerified": false,
+                    "verifiedType": "Business",
+                    "isBlueVerified": true,
+                    "profilePicture": "https://pbs.twimg.com/profile_images/1872260744743714816/t-VCIEkc_normal.jpg",
+                    "coverPicture": "https://pbs.twimg.com/profile_banners/1587601034339561472/1734533872",
+                    "description": "Delivering ML solutions on Solana. Math minds and engineers building the unimaginable.\n\nca: 8i51XNNpGaKaj4G4nDdmQh95v4FKAxw8mhtaRoKd9tE8\n\nAI Agent: @tetsuo_coin",
+                    "location": "Gale Crater,Aeolis,5.4S,137.8E",
+                    "followers": 61943,
+                    "following": 905,
+                    "status": "",
+                    "canDm": true,
+                    "canMediaTag": true,
+                    "createdAt": "Wed Nov 02 00:22:51 +0000 2022",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "tetsuo.ai",
+                                    "expanded_url": "http://www.tetsuo.ai",
+                                    "url": "https://t.co/AntruCHv5r",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 56415,
+                    "hasCustomTimelines": false,
+                    "isTranslator": false,
+                    "mediaCount": 2004,
+                    "statusesCount": 7780,
+                    "withheldInCountries": [],
+                    "affiliatesHighlightedLabel": {},
+                    "possiblySensitive": false,
+                    "pinnedTweetIds": [
+                        "1872918762422439996"
+                    ]
+                },
+                "extendedEntities": {
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/MtfafZUWUv",
+                            "expanded_url": "https://x.com/7etsuo/status/1872683887803142399/photo/1",
+                            "id_str": "1872678211299250177",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_key": "3_1872678211299250177",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf0W6UsbEAElFk3.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/MtfafZUWUv",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1054,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 618,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 350,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1482,
+                                "width": 2880,
+                                "focus_rects": [
+                                    {
+                                        "x": 234,
+                                        "y": 0,
+                                        "w": 2646,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 1398,
+                                        "y": 0,
+                                        "w": 1482,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 1580,
+                                        "y": 0,
+                                        "w": 1300,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 2139,
+                                        "y": 0,
+                                        "w": 741,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2880,
+                                        "h": 1482
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872678211299250177"
+                                }
+                            }
+                        },
+                        {
+                            "display_url": "pic.x.com/MtfafZUWUv",
+                            "expanded_url": "https://x.com/7etsuo/status/1872683887803142399/photo/1",
+                            "id_str": "1872678425108045824",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_key": "3_1872678425108045824",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf0XGxMaYAAAtDz.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/MtfafZUWUv",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1101,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 645,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 366,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1548,
+                                "width": 2880,
+                                "focus_rects": [
+                                    {
+                                        "x": 116,
+                                        "y": 0,
+                                        "w": 2764,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1170,
+                                        "y": 0,
+                                        "w": 1548,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1265,
+                                        "y": 0,
+                                        "w": 1358,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1557,
+                                        "y": 0,
+                                        "w": 774,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2880,
+                                        "h": 1548
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872678425108045824"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "card": {},
+                "place": {},
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/MtfafZUWUv",
+                            "expanded_url": "https://x.com/7etsuo/status/1872683887803142399/photo/1",
+                            "id_str": "1872678211299250177",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_key": "3_1872678211299250177",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf0W6UsbEAElFk3.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/MtfafZUWUv",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1054,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 618,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 350,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1482,
+                                "width": 2880,
+                                "focus_rects": [
+                                    {
+                                        "x": 234,
+                                        "y": 0,
+                                        "w": 2646,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 1398,
+                                        "y": 0,
+                                        "w": 1482,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 1580,
+                                        "y": 0,
+                                        "w": 1300,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 2139,
+                                        "y": 0,
+                                        "w": 741,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2880,
+                                        "h": 1482
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872678211299250177"
+                                }
+                            }
+                        },
+                        {
+                            "display_url": "pic.x.com/MtfafZUWUv",
+                            "expanded_url": "https://x.com/7etsuo/status/1872683887803142399/photo/1",
+                            "id_str": "1872678425108045824",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_key": "3_1872678425108045824",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf0XGxMaYAAAtDz.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/MtfafZUWUv",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1101,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 645,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 366,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1548,
+                                "width": 2880,
+                                "focus_rects": [
+                                    {
+                                        "x": 116,
+                                        "y": 0,
+                                        "w": 2764,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1170,
+                                        "y": 0,
+                                        "w": 1548,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1265,
+                                        "y": 0,
+                                        "w": 1358,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1557,
+                                        "y": 0,
+                                        "w": 774,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2880,
+                                        "h": 1548
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872678425108045824"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                }
+            },
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1872750251112898873",
+            "url": "https://x.com/AtomSilverman/status/1872750251112898873",
+            "twitterUrl": "https://twitter.com/AtomSilverman/status/1872750251112898873",
+            "text": "24/\nDid I miss anything? Share below.\n\nLiked this thread? Share it with your friends/team.\n\nFollow @AtomSilverman and @AgentOpsAI for everything AI agent related.\n\nLast weeks thread:\nhttps://t.co/BQLC7z5MxY https://t.co/Pdbj5B5hBM",
+            "fullText": "24/\nDid I miss anything? Share below.\n\nLiked this thread? Share it with your friends/team.\n\nFollow @AtomSilverman and @AgentOpsAI for everything AI agent related.\n\nLast weeks thread:\nhttps://t.co/BQLC7z5MxY https://t.co/Pdbj5B5hBM",
+            "source": "Twitter for iPhone",
+            "retweetCount": 0,
+            "replyCount": 3,
+            "likeCount": 9,
+            "quoteCount": 0,
+            "viewCount": 2562,
+            "createdAt": "Fri Dec 27 21:03:48 +0000 2024",
+            "lang": "en",
+            "quoteId": "1870217763123494935",
+            "bookmarkCount": 2,
+            "isReply": true,
+            "inReplyToId": "1872750246629151083",
+            "conversationId": "1872750184549294375",
+            "inReplyToUserId": "1134462942018179073",
+            "inReplyToUsername": "AtomSilverman",
+            "possiblySensitive": false,
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "AtomSilverman",
+                "url": "https://x.com/AtomSilverman",
+                "twitterUrl": "https://twitter.com/AtomSilverman",
+                "id": "1134462942018179073",
+                "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1693795710146142208/L4DA14IF_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/1134462942018179073/1724350632",
+                "description": "Our mission is to make the next 1 billion agents fast, safe, and reliable @AgentOpsAI  \ud83d\udcbb prev @BiltRewards & sold HDM to @Gamelancer",
+                "location": "Free list of 400+ Agents \ud83d\udd87\ufe0f \u2192",
+                "followers": 20928,
+                "following": 1738,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Fri May 31 14:13:37 +0000 2019",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "agen.cy",
+                                "expanded_url": "http://agen.cy",
+                                "url": "https://t.co/5D2qQSiTDV",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 4061,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 627,
+                "statusesCount": 3652,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1828811254409871708"
+                ]
+            },
+            "extendedEntities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/Pdbj5B5hBM",
+                        "expanded_url": "https://x.com/AtomSilverman/status/1872750251112898873/photo/1",
+                        "ext_alt_text": "AgentOps and Agency AI build the best ai agents for fortune 500 companies. AgentStack from AgentOps.ai and Agen.cy  is The fastest way to build robust AI agents. \n\nAI agents suck. We're fixing that. \nFrom the team behind AgentOps, Agency helps teams create reliable AI agents at scale.\n\nAgent Dev Tools\nAgentOps is the industry leading agent observability platform.\n\nVetted AI Agents\nBrowse 400+ AI agents working in production.\n\nAgent Expertise\nWe help everyone from startups to enterprise build agents at scale.\nAbout Agency\nAI agents are the next major paradigm shift in computing. We bring them to life.\n\nWe've personally built and reviewed hundreds of AI agents. Agency helps clients prototype and productionize ambitious projects.\n\nReady to bring high agency systems to life?\nFrom open source AI agent developer tools like AgentOps to Fortune 500 enterprises, we help clients create safe, reliable, and scalable AI agents. LLM cost tracking, agent observability, and more",
+                        "id_str": "1872750248344596480",
+                        "indices": [
+                            207,
+                            230
+                        ],
+                        "media_key": "3_1872750248344596480",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf1YbbmasAALtNs.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/Pdbj5B5hBM",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "all": {
+                                "tags": [
+                                    {
+                                        "user_id": "1717013899617468416",
+                                        "name": "AgentOps \ud83d\udd87\ufe0f",
+                                        "screen_name": "AgentOpsAI",
+                                        "type": "user"
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1075,
+                                "w": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 630,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 357,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1260,
+                            "width": 2400,
+                            "focus_rects": [
+                                {
+                                    "x": 150,
+                                    "y": 0,
+                                    "w": 2250,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 870,
+                                    "y": 0,
+                                    "w": 1260,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 948,
+                                    "y": 0,
+                                    "w": 1105,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 1185,
+                                    "y": 0,
+                                    "w": 630,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2400,
+                                    "h": 1260
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1872750248344596480"
+                            }
+                        }
+                    }
+                ]
+            },
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/Pdbj5B5hBM",
+                        "expanded_url": "https://x.com/AtomSilverman/status/1872750251112898873/photo/1",
+                        "ext_alt_text": "AgentOps and Agency AI build the best ai agents for fortune 500 companies. AgentStack from AgentOps.ai and Agen.cy  is The fastest way to build robust AI agents. \n\nAI agents suck. We're fixing that. \nFrom the team behind AgentOps, Agency helps teams create reliable AI agents at scale.\n\nAgent Dev Tools\nAgentOps is the industry leading agent observability platform.\n\nVetted AI Agents\nBrowse 400+ AI agents working in production.\n\nAgent Expertise\nWe help everyone from startups to enterprise build agents at scale.\nAbout Agency\nAI agents are the next major paradigm shift in computing. We bring them to life.\n\nWe've personally built and reviewed hundreds of AI agents. Agency helps clients prototype and productionize ambitious projects.\n\nReady to bring high agency systems to life?\nFrom open source AI agent developer tools like AgentOps to Fortune 500 enterprises, we help clients create safe, reliable, and scalable AI agents. LLM cost tracking, agent observability, and more",
+                        "id_str": "1872750248344596480",
+                        "indices": [
+                            207,
+                            230
+                        ],
+                        "media_key": "3_1872750248344596480",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf1YbbmasAALtNs.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/Pdbj5B5hBM",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "all": {
+                                "tags": [
+                                    {
+                                        "user_id": "1717013899617468416",
+                                        "name": "AgentOps \ud83d\udd87\ufe0f",
+                                        "screen_name": "AgentOpsAI",
+                                        "type": "user"
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1075,
+                                "w": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 630,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 357,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1260,
+                            "width": 2400,
+                            "focus_rects": [
+                                {
+                                    "x": 150,
+                                    "y": 0,
+                                    "w": 2250,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 870,
+                                    "y": 0,
+                                    "w": 1260,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 948,
+                                    "y": 0,
+                                    "w": 1105,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 1185,
+                                    "y": 0,
+                                    "w": 630,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2400,
+                                    "h": 1260
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1872750248344596480"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "x.com/AtomSilverman/\u2026",
+                        "expanded_url": "https://x.com/AtomSilverman/status/1870217763123494935",
+                        "url": "https://t.co/BQLC7z5MxY",
+                        "indices": [
+                            183,
+                            206
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "1134462942018179073",
+                        "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                        "screen_name": "AtomSilverman",
+                        "indices": [
+                            99,
+                            113
+                        ]
+                    },
+                    {
+                        "id_str": "1717013899617468416",
+                        "name": "AgentOps \ud83d\udd87\ufe0f",
+                        "screen_name": "AgentOpsAI",
+                        "indices": [
+                            118,
+                            129
+                        ]
+                    }
+                ]
+            },
+            "isRetweet": false,
+            "isQuote": true,
+            "quote": {
+                "type": "tweet",
+                "id": "1870217763123494935",
+                "text": "Here is everything that happened in AI Agents this week \ud83e\uddf5\n\n(save for later) https://t.co/TMufkr1QpK",
+                "source": "Twitter for iPhone",
+                "retweetCount": 323,
+                "replyCount": 73,
+                "likeCount": 2111,
+                "quoteCount": 23,
+                "viewCount": 279334,
+                "createdAt": "Fri Dec 20 21:20:36 +0000 2024",
+                "lang": "en",
+                "bookmarkCount": 3956,
+                "possiblySensitive": false,
+                "isPinned": false,
+                "author": {
+                    "type": "user",
+                    "userName": "AtomSilverman",
+                    "url": "https://x.com/AtomSilverman",
+                    "twitterUrl": "https://twitter.com/AtomSilverman",
+                    "id": "1134462942018179073",
+                    "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                    "isVerified": false,
+                    "isBlueVerified": true,
+                    "profilePicture": "https://pbs.twimg.com/profile_images/1693795710146142208/L4DA14IF_normal.jpg",
+                    "coverPicture": "https://pbs.twimg.com/profile_banners/1134462942018179073/1724350632",
+                    "description": "Our mission is to make the next 1 billion agents fast, safe, and reliable @AgentOpsAI  \ud83d\udcbb prev @BiltRewards & sold HDM to @Gamelancer",
+                    "location": "Free list of 400+ Agents \ud83d\udd87\ufe0f \u2192",
+                    "followers": 20928,
+                    "following": 1738,
+                    "status": "",
+                    "canDm": true,
+                    "canMediaTag": true,
+                    "createdAt": "Fri May 31 14:13:37 +0000 2019",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "agen.cy",
+                                    "expanded_url": "http://agen.cy",
+                                    "url": "https://t.co/5D2qQSiTDV",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 4061,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "mediaCount": 627,
+                    "statusesCount": 3652,
+                    "withheldInCountries": [],
+                    "affiliatesHighlightedLabel": {},
+                    "possiblySensitive": false,
+                    "pinnedTweetIds": [
+                        "1828811254409871708"
+                    ]
+                },
+                "extendedEntities": {
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/TMufkr1QpK",
+                            "expanded_url": "https://x.com/AtomSilverman/status/1870217763123494935/photo/1",
+                            "ext_alt_text": "AgentOps and Agency built the best ai agents for fortune 500 companies. AgentStack from AgentOps.ai and Agen.cy  is The fastest way to build robust AI agents. \n\nAI agents suck. We're fixing that. \nFrom the team behind AgentOps, Agency helps teams create reliable AI agents at scale.\n\nAgent Dev Tools\nAgentOps is the industry leading agent observability platform.\n\nVetted AI Agents\nBrowse 400+ AI agents working in production.\n\nAgent Expertise\nWe help everyone from startups to enterprise build agents at scale.\nAbout Agency\nAI agents are the next major paradigm shift in computing. We bring them to life.\n\nWe've personally built and reviewed hundreds of AI agents. Agency helps clients prototype and productionize ambitious projects.\n\nReady to bring high agency systems to life?\nFrom open source AI agent developer tools like AgentOps to Fortune 500 enterprises, we help clients create safe, reliable, and scalable AI agents. LLM cost tracking, agent observability, and more",
+                            "id_str": "1870217756991459328",
+                            "indices": [
+                                76,
+                                99
+                            ],
+                            "media_key": "3_1870217756991459328",
+                            "media_url_https": "https://pbs.twimg.com/media/GfRZJCIakAAZr2u.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/TMufkr1QpK",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1717013899617468416",
+                                            "name": "AgentOps \ud83d\udd87\ufe0f",
+                                            "screen_name": "AgentOpsAI",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1821252546469752832",
+                                            "name": "Letta",
+                                            "screen_name": "Letta_AI",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 1114,
+                                            "y": 246,
+                                            "h": 194,
+                                            "w": 194
+                                        },
+                                        {
+                                            "x": 636,
+                                            "y": 822,
+                                            "h": 668,
+                                            "w": 668
+                                        },
+                                        {
+                                            "x": 78,
+                                            "y": 1180,
+                                            "h": 668,
+                                            "w": 668
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 652,
+                                            "y": 144,
+                                            "h": 113,
+                                            "w": 113
+                                        },
+                                        {
+                                            "x": 372,
+                                            "y": 481,
+                                            "h": 391,
+                                            "w": 391
+                                        },
+                                        {
+                                            "x": 45,
+                                            "y": 691,
+                                            "h": 391,
+                                            "w": 391
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 369,
+                                            "y": 81,
+                                            "h": 64,
+                                            "w": 64
+                                        },
+                                        {
+                                            "x": 211,
+                                            "y": 272,
+                                            "h": 221,
+                                            "w": 221
+                                        },
+                                        {
+                                            "x": 25,
+                                            "y": 391,
+                                            "h": 221,
+                                            "w": 221
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 2228,
+                                            "y": 492,
+                                            "h": 388,
+                                            "w": 388
+                                        },
+                                        {
+                                            "x": 1272,
+                                            "y": 1644,
+                                            "h": 1336,
+                                            "w": 1336
+                                        },
+                                        {
+                                            "x": 156,
+                                            "y": 2360,
+                                            "h": 1336,
+                                            "w": 1336
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 2048,
+                                    "w": 1706,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "w": 1000,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 566,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 4096,
+                                "width": 3412,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 374,
+                                        "w": 3412,
+                                        "h": 1911
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 3412
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 3890
+                                    },
+                                    {
+                                        "x": 1327,
+                                        "y": 0,
+                                        "w": 2048,
+                                        "h": 4096
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 4096
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1870217756991459328"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "card": {},
+                "place": {},
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/TMufkr1QpK",
+                            "expanded_url": "https://x.com/AtomSilverman/status/1870217763123494935/photo/1",
+                            "ext_alt_text": "AgentOps and Agency built the best ai agents for fortune 500 companies. AgentStack from AgentOps.ai and Agen.cy  is The fastest way to build robust AI agents. \n\nAI agents suck. We're fixing that. \nFrom the team behind AgentOps, Agency helps teams create reliable AI agents at scale.\n\nAgent Dev Tools\nAgentOps is the industry leading agent observability platform.\n\nVetted AI Agents\nBrowse 400+ AI agents working in production.\n\nAgent Expertise\nWe help everyone from startups to enterprise build agents at scale.\nAbout Agency\nAI agents are the next major paradigm shift in computing. We bring them to life.\n\nWe've personally built and reviewed hundreds of AI agents. Agency helps clients prototype and productionize ambitious projects.\n\nReady to bring high agency systems to life?\nFrom open source AI agent developer tools like AgentOps to Fortune 500 enterprises, we help clients create safe, reliable, and scalable AI agents. LLM cost tracking, agent observability, and more",
+                            "id_str": "1870217756991459328",
+                            "indices": [
+                                76,
+                                99
+                            ],
+                            "media_key": "3_1870217756991459328",
+                            "media_url_https": "https://pbs.twimg.com/media/GfRZJCIakAAZr2u.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/TMufkr1QpK",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1717013899617468416",
+                                            "name": "AgentOps \ud83d\udd87\ufe0f",
+                                            "screen_name": "AgentOpsAI",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1821252546469752832",
+                                            "name": "Letta",
+                                            "screen_name": "Letta_AI",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 1114,
+                                            "y": 246,
+                                            "h": 194,
+                                            "w": 194
+                                        },
+                                        {
+                                            "x": 636,
+                                            "y": 822,
+                                            "h": 668,
+                                            "w": 668
+                                        },
+                                        {
+                                            "x": 78,
+                                            "y": 1180,
+                                            "h": 668,
+                                            "w": 668
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 652,
+                                            "y": 144,
+                                            "h": 113,
+                                            "w": 113
+                                        },
+                                        {
+                                            "x": 372,
+                                            "y": 481,
+                                            "h": 391,
+                                            "w": 391
+                                        },
+                                        {
+                                            "x": 45,
+                                            "y": 691,
+                                            "h": 391,
+                                            "w": 391
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 369,
+                                            "y": 81,
+                                            "h": 64,
+                                            "w": 64
+                                        },
+                                        {
+                                            "x": 211,
+                                            "y": 272,
+                                            "h": 221,
+                                            "w": 221
+                                        },
+                                        {
+                                            "x": 25,
+                                            "y": 391,
+                                            "h": 221,
+                                            "w": 221
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 2228,
+                                            "y": 492,
+                                            "h": 388,
+                                            "w": 388
+                                        },
+                                        {
+                                            "x": 1272,
+                                            "y": 1644,
+                                            "h": 1336,
+                                            "w": 1336
+                                        },
+                                        {
+                                            "x": 156,
+                                            "y": 2360,
+                                            "h": 1336,
+                                            "w": 1336
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 2048,
+                                    "w": 1706,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "w": 1000,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 566,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 4096,
+                                "width": 3412,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 374,
+                                        "w": 3412,
+                                        "h": 1911
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 3412
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 3890
+                                    },
+                                    {
+                                        "x": 1327,
+                                        "y": 0,
+                                        "w": 2048,
+                                        "h": 4096
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 4096
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1870217756991459328"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                }
+            },
+            "media": [
+                "https://pbs.twimg.com/media/Gf1YbbmasAALtNs.jpg"
+            ],
+            "isConversationControlled": false
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        }
+    ]
+}

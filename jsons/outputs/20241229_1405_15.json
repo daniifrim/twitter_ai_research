@@ -1,0 +1,2750 @@
+{
+    "summary": "# AI Agents and Automation: Developments and Forecast\n\nInformation taken from the analysis of 5 tweets\n\n---\n\n## H2: AI Agents: Current Developments and Use Cases\n\n- @7etsuo has developed an AI agent that can gather information based on a social media name, real name, or email. The AI agent breaks down the query into search terms, searches the web, and retrieves the required information [Source: @7etsuo](https://t.co/RHlcXbekft)\n\n**Fact:** AI agents are being developed and utilized to gather and process information based on specific search terms. \n\n**Analysis:** This development underscores the increasing role of AI in automating data gathering and processing tasks, potentially saving time and resources. \n\n**Insight:** For businesses, this could mean more efficient data collection and improved decision-making processes.\n\n---\n\n## H2: The Impact of AI on the Creator Economy\n\n- There's a reported \"AI-driven creator collapse,\" with @itsolelehmann witnessing three creator friends shut down their businesses [Source: @itsolelehmann](tweet_url)\n\n**Fact:** AI is impacting the creator economy, with some businesses unable to adapt and, as a result, shutting down. \n\n**Analysis:** This highlights the disruptive potential of AI, which can both create opportunities and pose challenges for existing businesses. \n\n**Insight:** Businesses, particularly in the creator economy, may need to adapt and innovate to stay competitive in an increasingly AI-driven landscape.\n\n---\n\n## H2: AI Coding and Future Predictions\n\n- @AlexReibman is working on a new architecture, with AgentOps 0.4.x development underway, predicting 2025 to be a significant year [Source: @AlexReibman](tweet_url)\n- An anonymous tweet predicts that AI coding in 2025 will lead to both the best and worst time to build software, inviting comments on why [Source: Anonymous](tweet_url)\n\n**Fact:** There are differing opinions on the future of AI coding. Some predict it to be a promising field, while others foresee potential challenges. \n\n**Analysis:** This suggests that while AI coding could bring about advancements and efficiencies in software development, it may also present unforeseen difficulties. \n\n**Insight:** This could mean that developers and businesses should be prepared for a dynamic and potentially challenging future in AI coding.\n\n---\n\n**Key Takeaways:**\n\n- AI agents are becoming increasingly sophisticated, with potential benefits for businesses in terms of automated data collection and processing.\n- The disruptive potential of AI is being felt in the creator economy, signaling a need for businesses to adapt and innovate.\n- The future of AI coding is uncertain, with predictions of both promise and challenge, indicating a need for preparedness and adaptability in the field.",
+    "tweets": [
+        {
+            "type": "tweet",
+            "id": "1872750184549294375",
+            "url": "https://x.com/AtomSilverman/status/1872750184549294375",
+            "twitterUrl": "https://twitter.com/AtomSilverman/status/1872750184549294375",
+            "text": "Here is everything that happened in AI Agents this week \ud83e\uddf5\u00a0\n\n(save for later) https://t.co/y5bBhyN4eB",
+            "fullText": "Here is everything that happened in AI Agents this week \ud83e\uddf5\u00a0\n\n(save for later) https://t.co/y5bBhyN4eB",
+            "source": "Twitter for iPhone",
+            "retweetCount": 110,
+            "replyCount": 29,
+            "likeCount": 886,
+            "quoteCount": 12,
+            "viewCount": 139485,
+            "createdAt": "Fri Dec 27 21:03:32 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 1694,
+            "isReply": false,
+            "conversationId": "1872750184549294375",
+            "possiblySensitive": false,
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "AtomSilverman",
+                "url": "https://x.com/AtomSilverman",
+                "twitterUrl": "https://twitter.com/AtomSilverman",
+                "id": "1134462942018179073",
+                "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1693795710146142208/L4DA14IF_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/1134462942018179073/1724350632",
+                "description": "Our mission is to make the next 1 billion agents fast, safe, and reliable @AgentOpsAI  \ud83d\udcbb prev @BiltRewards & sold HDM to @Gamelancer",
+                "location": "Free list of 400+ Agents \ud83d\udd87\ufe0f \u2192",
+                "followers": 20930,
+                "following": 1738,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Fri May 31 14:13:37 +0000 2019",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "agen.cy",
+                                "expanded_url": "http://agen.cy",
+                                "url": "https://t.co/5D2qQSiTDV",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 4061,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 627,
+                "statusesCount": 3652,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1828811254409871708"
+                ]
+            },
+            "extendedEntities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/y5bBhyN4eB",
+                        "expanded_url": "https://x.com/AtomSilverman/status/1872750184549294375/photo/1",
+                        "ext_alt_text": "marketplace.agen.cy Best Agents From AgentOps, AgentStack, Agency AI. AgentOps\nNelima\nAdala\nAgent4Rec\nAgentForge\nAgentGPT\nAgentPilot\nAgents\nAgentVerse\nAI Legion\nAider\nAIlice\nAutoGen\nAutoGPT\nAutomata\nAutoPR\nAutonomous HR Chatbot\nBabyAGI\nBabyBeeAGI\nBabyCatAGI\nBabyDeerAGI\nBabyElfAGI\nBabyCommandAGI\nBabyFoxAGI\nBambooAI\nBeeBot\nBloop\nBondAI\nbumpgen\nCal.ai\nCAMEL\nChatArena\nChatDev\nChem Crow\nClippy\nCodeFuse-ChatBot\nCody by ajhous44\nContinue\nCrewAI\nDataberry\nDemoGPT\nDevGPT\nDevika\nDevon\nDevOpsGPT\ndotagent\nEidolon\nEnglish Compiler\nevo.ninja\nFlowise AI\nFriday\nGeniA\nGodMode\nGPT Discord\nGPT Engineer\nGPT Migrate\nGPT Pilot\nGPT Researcher\nGPT Runner\nGPTSwarm\nIX\nJARVIS\nLangroid\nLemon Agent\nLLM Agents\nLLM Stack\nLoop GPT\nL2MAC\nMaige\nMagick\nMemGPT MetaGPT\nMini AGI\nMultiagent Debate\nNLSOM\nOpenAgents\nOpenAGI\nOpenDevin\nOpenInterpreter\nPezzo\nPrivate GPT\nPromethAI\nReact Agent\nSelf-operating computer\nSmol Developer\nStackwise\nSuperAgent\nSuperAGI\nSuspicion Agent\nSWE Agent\nSweep Taxy AI\nTeenage AGI\n\nVanna.AI\nVoyager",
+                        "id_str": "1872750179553820672",
+                        "indices": [
+                            77,
+                            100
+                        ],
+                        "media_key": "3_1872750179553820672",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf1YXbVawAASxCV.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/y5bBhyN4eB",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "all": {
+                                "tags": [
+                                    {
+                                        "user_id": "1717013899617468416",
+                                        "name": "AgentOps \ud83d\udd87\ufe0f",
+                                        "screen_name": "AgentOpsAI",
+                                        "type": "user"
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 1133,
+                                        "y": 145,
+                                        "h": 79,
+                                        "w": 79
+                                    },
+                                    {
+                                        "x": 935,
+                                        "y": 75,
+                                        "h": 155,
+                                        "w": 155
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 664,
+                                        "y": 85,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 548,
+                                        "y": 44,
+                                        "h": 91,
+                                        "w": 91
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 376,
+                                        "y": 48,
+                                        "h": 26,
+                                        "w": 26
+                                    },
+                                    {
+                                        "x": 310,
+                                        "y": 25,
+                                        "h": 51,
+                                        "w": 51
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 1337,
+                                        "y": 172,
+                                        "h": 94,
+                                        "w": 94
+                                    },
+                                    {
+                                        "x": 1104,
+                                        "y": 89,
+                                        "h": 184,
+                                        "w": 184
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1302,
+                                "w": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 763,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 432,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1536,
+                            "width": 2416,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2416,
+                                    "h": 1353
+                                },
+                                {
+                                    "x": 440,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 535,
+                                    "y": 0,
+                                    "w": 1347,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 824,
+                                    "y": 0,
+                                    "w": 768,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2416,
+                                    "h": 1536
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1872750179553820672"
+                            }
+                        }
+                    }
+                ]
+            },
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/y5bBhyN4eB",
+                        "expanded_url": "https://x.com/AtomSilverman/status/1872750184549294375/photo/1",
+                        "ext_alt_text": "marketplace.agen.cy Best Agents From AgentOps, AgentStack, Agency AI. AgentOps\nNelima\nAdala\nAgent4Rec\nAgentForge\nAgentGPT\nAgentPilot\nAgents\nAgentVerse\nAI Legion\nAider\nAIlice\nAutoGen\nAutoGPT\nAutomata\nAutoPR\nAutonomous HR Chatbot\nBabyAGI\nBabyBeeAGI\nBabyCatAGI\nBabyDeerAGI\nBabyElfAGI\nBabyCommandAGI\nBabyFoxAGI\nBambooAI\nBeeBot\nBloop\nBondAI\nbumpgen\nCal.ai\nCAMEL\nChatArena\nChatDev\nChem Crow\nClippy\nCodeFuse-ChatBot\nCody by ajhous44\nContinue\nCrewAI\nDataberry\nDemoGPT\nDevGPT\nDevika\nDevon\nDevOpsGPT\ndotagent\nEidolon\nEnglish Compiler\nevo.ninja\nFlowise AI\nFriday\nGeniA\nGodMode\nGPT Discord\nGPT Engineer\nGPT Migrate\nGPT Pilot\nGPT Researcher\nGPT Runner\nGPTSwarm\nIX\nJARVIS\nLangroid\nLemon Agent\nLLM Agents\nLLM Stack\nLoop GPT\nL2MAC\nMaige\nMagick\nMemGPT MetaGPT\nMini AGI\nMultiagent Debate\nNLSOM\nOpenAgents\nOpenAGI\nOpenDevin\nOpenInterpreter\nPezzo\nPrivate GPT\nPromethAI\nReact Agent\nSelf-operating computer\nSmol Developer\nStackwise\nSuperAgent\nSuperAGI\nSuspicion Agent\nSWE Agent\nSweep Taxy AI\nTeenage AGI\n\nVanna.AI\nVoyager",
+                        "id_str": "1872750179553820672",
+                        "indices": [
+                            77,
+                            100
+                        ],
+                        "media_key": "3_1872750179553820672",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf1YXbVawAASxCV.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/y5bBhyN4eB",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "all": {
+                                "tags": [
+                                    {
+                                        "user_id": "1717013899617468416",
+                                        "name": "AgentOps \ud83d\udd87\ufe0f",
+                                        "screen_name": "AgentOpsAI",
+                                        "type": "user"
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 1133,
+                                        "y": 145,
+                                        "h": 79,
+                                        "w": 79
+                                    },
+                                    {
+                                        "x": 935,
+                                        "y": 75,
+                                        "h": 155,
+                                        "w": 155
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 664,
+                                        "y": 85,
+                                        "h": 46,
+                                        "w": 46
+                                    },
+                                    {
+                                        "x": 548,
+                                        "y": 44,
+                                        "h": 91,
+                                        "w": 91
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 376,
+                                        "y": 48,
+                                        "h": 26,
+                                        "w": 26
+                                    },
+                                    {
+                                        "x": 310,
+                                        "y": 25,
+                                        "h": 51,
+                                        "w": 51
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 1337,
+                                        "y": 172,
+                                        "h": 94,
+                                        "w": 94
+                                    },
+                                    {
+                                        "x": 1104,
+                                        "y": 89,
+                                        "h": 184,
+                                        "w": 184
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1302,
+                                "w": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 763,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 432,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1536,
+                            "width": 2416,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2416,
+                                    "h": 1353
+                                },
+                                {
+                                    "x": 440,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 535,
+                                    "y": 0,
+                                    "w": 1347,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 824,
+                                    "y": 0,
+                                    "w": 768,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2416,
+                                    "h": 1536
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1872750179553820672"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "isRetweet": false,
+            "isQuote": false,
+            "media": [
+                "https://pbs.twimg.com/media/Gf1YXbVawAASxCV.jpg"
+            ],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1873199783034454268",
+            "url": "https://x.com/itsolelehmann/status/1873199783034454268",
+            "twitterUrl": "https://twitter.com/itsolelehmann/status/1873199783034454268",
+            "text": "RT @itsolelehmann: i've watched 3 creator friends shut down their businesses in the last few weeks.\n\nthe great AI-driven creator collapse i\u2026",
+            "fullText": "RT @itsolelehmann: i've watched 3 creator friends shut down their businesses in the last few weeks.\n\nthe great AI-driven creator collapse i\u2026",
+            "source": "Typefully",
+            "retweetCount": 59,
+            "replyCount": 43,
+            "likeCount": 703,
+            "quoteCount": 9,
+            "viewCount": 106894,
+            "createdAt": "Sun Dec 29 02:50:05 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 962,
+            "isReply": false,
+            "conversationId": "1873199783034454268",
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "itsolelehmann",
+                "url": "https://x.com/itsolelehmann",
+                "twitterUrl": "https://twitter.com/itsolelehmann",
+                "id": "1587816802264006657",
+                "name": "Ole Lehmann",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1633697720291704832/GBmxTCa6_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/1587816802264006657/1729510527",
+                "description": "I build magic internet money businesses and share what I learn. Interested in: tech, biz & longevity \u2022 Founder @aisolopreneur, https://t.co/FgIG312jWz supporter",
+                "location": "Join 42k+ newsletter readers",
+                "followers": 88467,
+                "following": 1459,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Wed Nov 02 14:40:13 +0000 2022",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "euacc.com",
+                                "expanded_url": "https://euacc.com/",
+                                "url": "https://t.co/FgIG312jWz",
+                                "indices": [
+                                    127,
+                                    150
+                                ]
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "aisolopreneur.beehiiv.com",
+                                "expanded_url": "https://aisolopreneur.beehiiv.com/",
+                                "url": "https://t.co/39lZNyX3EP",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 34260,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 1423,
+                "statusesCount": 13224,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": []
+            },
+            "extendedEntities": {},
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "1587816802264006657",
+                        "name": "Ole Lehmann",
+                        "screen_name": "itsolelehmann",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ]
+            },
+            "isRetweet": true,
+            "retweet": {
+                "type": "tweet",
+                "id": "1873107344214880528",
+                "text": "i've watched 3 creator friends shut down their businesses in the last few weeks.\n\nthe great AI-driven creator collapse is happening. i think it'll only accelerate in 2025.\n\nhere's why 95% of content creators won't survive (and how to capitalize on this new paradigm instead):",
+                "source": "Typefully",
+                "retweetCount": 59,
+                "replyCount": 43,
+                "likeCount": 703,
+                "quoteCount": 9,
+                "viewCount": 106894,
+                "createdAt": "Sat Dec 28 20:42:46 +0000 2024",
+                "lang": "en",
+                "bookmarkCount": 962,
+                "isPinned": false,
+                "author": {
+                    "type": "user",
+                    "userName": "itsolelehmann",
+                    "url": "https://x.com/itsolelehmann",
+                    "twitterUrl": "https://twitter.com/itsolelehmann",
+                    "id": "1587816802264006657",
+                    "name": "Ole Lehmann",
+                    "isVerified": false,
+                    "isBlueVerified": true,
+                    "profilePicture": "https://pbs.twimg.com/profile_images/1633697720291704832/GBmxTCa6_normal.jpg",
+                    "coverPicture": "https://pbs.twimg.com/profile_banners/1587816802264006657/1729510527",
+                    "description": "I build magic internet money businesses and share what I learn. Interested in: tech, biz & longevity \u2022 Founder @aisolopreneur, https://t.co/FgIG312jWz supporter",
+                    "location": "Join 42k+ newsletter readers",
+                    "followers": 88467,
+                    "following": 1459,
+                    "status": "",
+                    "canDm": true,
+                    "canMediaTag": true,
+                    "createdAt": "Wed Nov 02 14:40:13 +0000 2022",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "euacc.com",
+                                    "expanded_url": "https://euacc.com/",
+                                    "url": "https://t.co/FgIG312jWz",
+                                    "indices": [
+                                        127,
+                                        150
+                                    ]
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "aisolopreneur.beehiiv.com",
+                                    "expanded_url": "https://aisolopreneur.beehiiv.com/",
+                                    "url": "https://t.co/39lZNyX3EP",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 34260,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "mediaCount": 1423,
+                    "statusesCount": 13224,
+                    "withheldInCountries": [],
+                    "affiliatesHighlightedLabel": {},
+                    "possiblySensitive": false,
+                    "pinnedTweetIds": []
+                },
+                "extendedEntities": {},
+                "card": {},
+                "place": {},
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                }
+            },
+            "isQuote": false,
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1873089032185626749",
+            "url": "https://x.com/AtomSilverman/status/1873089032185626749",
+            "twitterUrl": "https://twitter.com/AtomSilverman/status/1873089032185626749",
+            "text": "RT @AlexReibman: Cooking up some new architecture, and now AgentOps 0.4.x is officially under way \ud83d\udd1c\n\n2025 is gonna be a great year https://\u2026",
+            "fullText": "RT @AlexReibman: Cooking up some new architecture, and now AgentOps 0.4.x is officially under way \ud83d\udd1c\n\n2025 is gonna be a great year https://\u2026",
+            "source": "Twitter for iPhone",
+            "retweetCount": 3,
+            "replyCount": 3,
+            "likeCount": 43,
+            "quoteCount": 1,
+            "viewCount": 3640,
+            "createdAt": "Sat Dec 28 19:30:00 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 8,
+            "isReply": false,
+            "conversationId": "1873089032185626749",
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "AtomSilverman",
+                "url": "https://x.com/AtomSilverman",
+                "twitterUrl": "https://twitter.com/AtomSilverman",
+                "id": "1134462942018179073",
+                "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1693795710146142208/L4DA14IF_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/1134462942018179073/1724350632",
+                "description": "Our mission is to make the next 1 billion agents fast, safe, and reliable @AgentOpsAI  \ud83d\udcbb prev @BiltRewards & sold HDM to @Gamelancer",
+                "location": "Free list of 400+ Agents \ud83d\udd87\ufe0f \u2192",
+                "followers": 20930,
+                "following": 1738,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Fri May 31 14:13:37 +0000 2019",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "agen.cy",
+                                "expanded_url": "http://agen.cy",
+                                "url": "https://t.co/5D2qQSiTDV",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 4061,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 627,
+                "statusesCount": 3652,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1828811254409871708"
+                ]
+            },
+            "extendedEntities": {},
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "999588600571400192",
+                        "name": "Alex Reibman \ud83d\udd87\ufe0f",
+                        "screen_name": "AlexReibman",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ]
+            },
+            "isRetweet": true,
+            "retweet": {
+                "type": "tweet",
+                "id": "1872882125646782829",
+                "text": "Cooking up some new architecture, and now AgentOps 0.4.x is officially under way \ud83d\udd1c\n\n2025 is gonna be a great year https://t.co/TDjFYvYYl0",
+                "source": "Twitter for iPhone",
+                "retweetCount": 3,
+                "replyCount": 3,
+                "likeCount": 43,
+                "quoteCount": 1,
+                "viewCount": 3640,
+                "createdAt": "Sat Dec 28 05:47:49 +0000 2024",
+                "lang": "en",
+                "bookmarkCount": 8,
+                "possiblySensitive": false,
+                "isPinned": false,
+                "author": {
+                    "type": "user",
+                    "userName": "AlexReibman",
+                    "url": "https://x.com/AlexReibman",
+                    "twitterUrl": "https://twitter.com/AlexReibman",
+                    "id": "999588600571400192",
+                    "name": "Alex Reibman \ud83d\udd87\ufe0f",
+                    "isVerified": false,
+                    "isBlueVerified": true,
+                    "profilePicture": "https://pbs.twimg.com/profile_images/1435753423161397248/6jG9r65f_normal.jpg",
+                    "coverPicture": "https://pbs.twimg.com/profile_banners/999588600571400192/1730227316",
+                    "description": "Co-founder/CEO https://t.co/xOANj2YgDR @agentopsai \ud83d\udd87\ufe0f Agents, ML, math, and data viz. Hack reporter\ud83d\udd76\ufe0f",
+                    "location": "\ud83c\udf09 Cerebral Valley",
+                    "followers": 35281,
+                    "following": 823,
+                    "status": "",
+                    "canDm": true,
+                    "canMediaTag": true,
+                    "createdAt": "Thu May 24 09:51:08 +0000 2018",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "agen.cy",
+                                    "expanded_url": "https://agen.cy",
+                                    "url": "https://t.co/xOANj2YgDR",
+                                    "indices": [
+                                        15,
+                                        38
+                                    ]
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "hacktrace.substack.com",
+                                    "expanded_url": "http://hacktrace.substack.com",
+                                    "url": "https://t.co/21YBLK7Qt0",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 12283,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "mediaCount": 1578,
+                    "statusesCount": 5250,
+                    "withheldInCountries": [],
+                    "affiliatesHighlightedLabel": {},
+                    "possiblySensitive": false,
+                    "pinnedTweetIds": [
+                        "1863862959681741285"
+                    ]
+                },
+                "extendedEntities": {
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/TDjFYvYYl0",
+                            "expanded_url": "https://x.com/AlexReibman/status/1872882125646782829/photo/1",
+                            "id_str": "1872882120282259458",
+                            "indices": [
+                                114,
+                                137
+                            ],
+                            "media_key": "3_1872882120282259458",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf3QXY2awAIDtTk.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/TDjFYvYYl0",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1717013899617468416",
+                                            "name": "AgentOps \ud83d\udd87\ufe0f",
+                                            "screen_name": "AgentOpsAI",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "894467421075058688",
+                                            "name": "Wayne Hamadi \ud83d\udd87\ufe0f",
+                                            "screen_name": "wayne_hamadi",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1496973393995964419",
+                                            "name": "Teo \ud83d\udd87\ufe0f",
+                                            "screen_name": "teocns",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 1466,
+                                            "y": 728,
+                                            "h": 68,
+                                            "w": 68
+                                        },
+                                        {
+                                            "x": 948,
+                                            "y": 718,
+                                            "h": 86,
+                                            "w": 86
+                                        },
+                                        {
+                                            "x": 436,
+                                            "y": 392,
+                                            "h": 340,
+                                            "w": 340
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 858,
+                                            "y": 426,
+                                            "h": 39,
+                                            "w": 39
+                                        },
+                                        {
+                                            "x": 555,
+                                            "y": 420,
+                                            "h": 50,
+                                            "w": 50
+                                        },
+                                        {
+                                            "x": 255,
+                                            "y": 229,
+                                            "h": 199,
+                                            "w": 199
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 486,
+                                            "y": 241,
+                                            "h": 22,
+                                            "w": 22
+                                        },
+                                        {
+                                            "x": 314,
+                                            "y": 238,
+                                            "h": 28,
+                                            "w": 28
+                                        },
+                                        {
+                                            "x": 144,
+                                            "y": 130,
+                                            "h": 112,
+                                            "w": 112
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 1466,
+                                            "y": 728,
+                                            "h": 68,
+                                            "w": 68
+                                        },
+                                        {
+                                            "x": 948,
+                                            "y": 718,
+                                            "h": 86,
+                                            "w": 86
+                                        },
+                                        {
+                                            "x": 436,
+                                            "y": 392,
+                                            "h": 340,
+                                            "w": 340
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1536,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 900,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1536,
+                                "width": 2048,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 389,
+                                        "w": 2048,
+                                        "h": 1147
+                                    },
+                                    {
+                                        "x": 409,
+                                        "y": 0,
+                                        "w": 1536,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 504,
+                                        "y": 0,
+                                        "w": 1347,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 793,
+                                        "y": 0,
+                                        "w": 768,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2048,
+                                        "h": 1536
+                                    }
+                                ]
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872882120282259458"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "card": {},
+                "place": {},
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/TDjFYvYYl0",
+                            "expanded_url": "https://x.com/AlexReibman/status/1872882125646782829/photo/1",
+                            "id_str": "1872882120282259458",
+                            "indices": [
+                                114,
+                                137
+                            ],
+                            "media_key": "3_1872882120282259458",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf3QXY2awAIDtTk.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/TDjFYvYYl0",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1717013899617468416",
+                                            "name": "AgentOps \ud83d\udd87\ufe0f",
+                                            "screen_name": "AgentOpsAI",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "894467421075058688",
+                                            "name": "Wayne Hamadi \ud83d\udd87\ufe0f",
+                                            "screen_name": "wayne_hamadi",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1496973393995964419",
+                                            "name": "Teo \ud83d\udd87\ufe0f",
+                                            "screen_name": "teocns",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 1466,
+                                            "y": 728,
+                                            "h": 68,
+                                            "w": 68
+                                        },
+                                        {
+                                            "x": 948,
+                                            "y": 718,
+                                            "h": 86,
+                                            "w": 86
+                                        },
+                                        {
+                                            "x": 436,
+                                            "y": 392,
+                                            "h": 340,
+                                            "w": 340
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 858,
+                                            "y": 426,
+                                            "h": 39,
+                                            "w": 39
+                                        },
+                                        {
+                                            "x": 555,
+                                            "y": 420,
+                                            "h": 50,
+                                            "w": 50
+                                        },
+                                        {
+                                            "x": 255,
+                                            "y": 229,
+                                            "h": 199,
+                                            "w": 199
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 486,
+                                            "y": 241,
+                                            "h": 22,
+                                            "w": 22
+                                        },
+                                        {
+                                            "x": 314,
+                                            "y": 238,
+                                            "h": 28,
+                                            "w": 28
+                                        },
+                                        {
+                                            "x": 144,
+                                            "y": 130,
+                                            "h": 112,
+                                            "w": 112
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 1466,
+                                            "y": 728,
+                                            "h": 68,
+                                            "w": 68
+                                        },
+                                        {
+                                            "x": 948,
+                                            "y": 718,
+                                            "h": 86,
+                                            "w": 86
+                                        },
+                                        {
+                                            "x": 436,
+                                            "y": 392,
+                                            "h": 340,
+                                            "w": 340
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1536,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 900,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 510,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1536,
+                                "width": 2048,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 389,
+                                        "w": 2048,
+                                        "h": 1147
+                                    },
+                                    {
+                                        "x": 409,
+                                        "y": 0,
+                                        "w": 1536,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 504,
+                                        "y": 0,
+                                        "w": 1347,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 793,
+                                        "y": 0,
+                                        "w": 768,
+                                        "h": 1536
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2048,
+                                        "h": 1536
+                                    }
+                                ]
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872882120282259458"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                }
+            },
+            "isQuote": false,
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1872750246629151083",
+            "url": "https://x.com/AtomSilverman/status/1872750246629151083",
+            "twitterUrl": "https://twitter.com/AtomSilverman/status/1872750246629151083",
+            "text": "23/\n@7etsuo built an AI Agent that can gather information on people given a social media name, real name, or email. You provide it with a query, and the AI agent breaks the query into search terms, uses those to search the web, retrieves the information\n\nhttps://t.co/RHlcXbekft",
+            "fullText": "23/\n@7etsuo built an AI Agent that can gather information on people given a social media name, real name, or email. You provide it with a query, and the AI agent breaks the query into search terms, uses those to search the web, retrieves the information\n\nhttps://t.co/RHlcXbekft",
+            "source": "Twitter for iPhone",
+            "retweetCount": 1,
+            "replyCount": 1,
+            "likeCount": 16,
+            "quoteCount": 0,
+            "viewCount": 2954,
+            "createdAt": "Fri Dec 27 21:03:47 +0000 2024",
+            "lang": "en",
+            "quoteId": "1872683887803142399",
+            "bookmarkCount": 12,
+            "isReply": true,
+            "inReplyToId": "1872750244485841378",
+            "conversationId": "1872750184549294375",
+            "inReplyToUserId": "1134462942018179073",
+            "inReplyToUsername": "AtomSilverman",
+            "possiblySensitive": false,
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "AtomSilverman",
+                "url": "https://x.com/AtomSilverman",
+                "twitterUrl": "https://twitter.com/AtomSilverman",
+                "id": "1134462942018179073",
+                "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1693795710146142208/L4DA14IF_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/1134462942018179073/1724350632",
+                "description": "Our mission is to make the next 1 billion agents fast, safe, and reliable @AgentOpsAI  \ud83d\udcbb prev @BiltRewards & sold HDM to @Gamelancer",
+                "location": "Free list of 400+ Agents \ud83d\udd87\ufe0f \u2192",
+                "followers": 20930,
+                "following": 1738,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Fri May 31 14:13:37 +0000 2019",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "agen.cy",
+                                "expanded_url": "http://agen.cy",
+                                "url": "https://t.co/5D2qQSiTDV",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 4061,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 627,
+                "statusesCount": 3652,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1828811254409871708"
+                ]
+            },
+            "extendedEntities": {},
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "x.com/7etsuo/status/\u2026",
+                        "expanded_url": "https://x.com/7etsuo/status/1872683887803142399",
+                        "url": "https://t.co/RHlcXbekft",
+                        "indices": [
+                            255,
+                            278
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "1587601034339561472",
+                        "name": "tetsuo.ai",
+                        "screen_name": "7etsuo",
+                        "indices": [
+                            4,
+                            11
+                        ]
+                    }
+                ]
+            },
+            "isRetweet": false,
+            "isQuote": true,
+            "quote": {
+                "type": "tweet",
+                "id": "1872683887803142399",
+                "text": "Wrote an AI agent that can be used to gather information on people given a social media name, real name, or email. You provide it with a query, and the AI agent breaks the query into search terms, uses those to search the web, retrieves the information, refines it, then breaks that information down into further search terms and iterates.",
+                "source": "Twitter Web App",
+                "retweetCount": 37,
+                "replyCount": 19,
+                "likeCount": 214,
+                "quoteCount": 2,
+                "viewCount": 14215,
+                "createdAt": "Fri Dec 27 16:40:06 +0000 2024",
+                "lang": "en",
+                "bookmarkCount": 50,
+                "possiblySensitive": false,
+                "isPinned": false,
+                "author": {
+                    "type": "user",
+                    "userName": "7etsuo",
+                    "url": "https://x.com/7etsuo",
+                    "twitterUrl": "https://twitter.com/7etsuo",
+                    "id": "1587601034339561472",
+                    "name": "tetsuo.ai",
+                    "isVerified": false,
+                    "verifiedType": "Business",
+                    "isBlueVerified": true,
+                    "profilePicture": "https://pbs.twimg.com/profile_images/1872260744743714816/t-VCIEkc_normal.jpg",
+                    "coverPicture": "https://pbs.twimg.com/profile_banners/1587601034339561472/1734533872",
+                    "description": "Delivering ML solutions on Solana. Math minds and engineers building the unimaginable.\n\nca: 8i51XNNpGaKaj4G4nDdmQh95v4FKAxw8mhtaRoKd9tE8\n\nAI Agent: @tetsuo_coin",
+                    "location": "Gale Crater,Aeolis,5.4S,137.8E",
+                    "followers": 62057,
+                    "following": 905,
+                    "status": "",
+                    "canDm": true,
+                    "canMediaTag": true,
+                    "createdAt": "Wed Nov 02 00:22:51 +0000 2022",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "tetsuo.ai",
+                                    "expanded_url": "http://www.tetsuo.ai",
+                                    "url": "https://t.co/AntruCHv5r",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 56418,
+                    "hasCustomTimelines": false,
+                    "isTranslator": false,
+                    "mediaCount": 2004,
+                    "statusesCount": 7782,
+                    "withheldInCountries": [],
+                    "affiliatesHighlightedLabel": {},
+                    "possiblySensitive": false,
+                    "pinnedTweetIds": [
+                        "1872918762422439996"
+                    ]
+                },
+                "extendedEntities": {
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/MtfafZUWUv",
+                            "expanded_url": "https://x.com/7etsuo/status/1872683887803142399/photo/1",
+                            "id_str": "1872678211299250177",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_key": "3_1872678211299250177",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf0W6UsbEAElFk3.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/MtfafZUWUv",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1054,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 618,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 350,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1482,
+                                "width": 2880,
+                                "focus_rects": [
+                                    {
+                                        "x": 234,
+                                        "y": 0,
+                                        "w": 2646,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 1398,
+                                        "y": 0,
+                                        "w": 1482,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 1580,
+                                        "y": 0,
+                                        "w": 1300,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 2139,
+                                        "y": 0,
+                                        "w": 741,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2880,
+                                        "h": 1482
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872678211299250177"
+                                }
+                            }
+                        },
+                        {
+                            "display_url": "pic.x.com/MtfafZUWUv",
+                            "expanded_url": "https://x.com/7etsuo/status/1872683887803142399/photo/1",
+                            "id_str": "1872678425108045824",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_key": "3_1872678425108045824",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf0XGxMaYAAAtDz.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/MtfafZUWUv",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1101,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 645,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 366,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1548,
+                                "width": 2880,
+                                "focus_rects": [
+                                    {
+                                        "x": 116,
+                                        "y": 0,
+                                        "w": 2764,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1170,
+                                        "y": 0,
+                                        "w": 1548,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1265,
+                                        "y": 0,
+                                        "w": 1358,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1557,
+                                        "y": 0,
+                                        "w": 774,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2880,
+                                        "h": 1548
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872678425108045824"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "card": {},
+                "place": {},
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/MtfafZUWUv",
+                            "expanded_url": "https://x.com/7etsuo/status/1872683887803142399/photo/1",
+                            "id_str": "1872678211299250177",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_key": "3_1872678211299250177",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf0W6UsbEAElFk3.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/MtfafZUWUv",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1054,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 618,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 350,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1482,
+                                "width": 2880,
+                                "focus_rects": [
+                                    {
+                                        "x": 234,
+                                        "y": 0,
+                                        "w": 2646,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 1398,
+                                        "y": 0,
+                                        "w": 1482,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 1580,
+                                        "y": 0,
+                                        "w": 1300,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 2139,
+                                        "y": 0,
+                                        "w": 741,
+                                        "h": 1482
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2880,
+                                        "h": 1482
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872678211299250177"
+                                }
+                            }
+                        },
+                        {
+                            "display_url": "pic.x.com/MtfafZUWUv",
+                            "expanded_url": "https://x.com/7etsuo/status/1872683887803142399/photo/1",
+                            "id_str": "1872678425108045824",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_key": "3_1872678425108045824",
+                            "media_url_https": "https://pbs.twimg.com/media/Gf0XGxMaYAAAtDz.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/MtfafZUWUv",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                },
+                                "medium": {
+                                    "faces": []
+                                },
+                                "small": {
+                                    "faces": []
+                                },
+                                "orig": {
+                                    "faces": []
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 1101,
+                                    "w": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 645,
+                                    "w": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 366,
+                                    "w": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 1548,
+                                "width": 2880,
+                                "focus_rects": [
+                                    {
+                                        "x": 116,
+                                        "y": 0,
+                                        "w": 2764,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1170,
+                                        "y": 0,
+                                        "w": 1548,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1265,
+                                        "y": 0,
+                                        "w": 1358,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 1557,
+                                        "y": 0,
+                                        "w": 774,
+                                        "h": 1548
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2880,
+                                        "h": 1548
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1872678425108045824"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                }
+            },
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1872751721673572384",
+            "url": "https://x.com/itsolelehmann/status/1872751721673572384",
+            "twitterUrl": "https://twitter.com/itsolelehmann/status/1872751721673572384",
+            "text": "AI coding in 2025 leads to the\n\n1) best time to build software\n\n2) worst time to build software \n\nComment why you think so",
+            "fullText": "AI coding in 2025 leads to the\n\n1) best time to build software\n\n2) worst time to build software \n\nComment why you think so",
+            "source": "Twitter for iPhone",
+            "retweetCount": 0,
+            "replyCount": 17,
+            "likeCount": 14,
+            "quoteCount": 1,
+            "viewCount": 5819,
+            "createdAt": "Fri Dec 27 21:09:39 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 2,
+            "isReply": false,
+            "conversationId": "1872751721673572384",
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "itsolelehmann",
+                "url": "https://x.com/itsolelehmann",
+                "twitterUrl": "https://twitter.com/itsolelehmann",
+                "id": "1587816802264006657",
+                "name": "Ole Lehmann",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1633697720291704832/GBmxTCa6_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/1587816802264006657/1729510527",
+                "description": "I build magic internet money businesses and share what I learn. Interested in: tech, biz & longevity \u2022 Founder @aisolopreneur, https://t.co/FgIG312jWz supporter",
+                "location": "Join 42k+ newsletter readers",
+                "followers": 88467,
+                "following": 1459,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Wed Nov 02 14:40:13 +0000 2022",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "euacc.com",
+                                "expanded_url": "https://euacc.com/",
+                                "url": "https://t.co/FgIG312jWz",
+                                "indices": [
+                                    127,
+                                    150
+                                ]
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "aisolopreneur.beehiiv.com",
+                                "expanded_url": "https://aisolopreneur.beehiiv.com/",
+                                "url": "https://t.co/39lZNyX3EP",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 34260,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 1423,
+                "statusesCount": 13224,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": []
+            },
+            "extendedEntities": {},
+            "card": {
+                "rest_id": "card://1872751720893140992",
+                "legacy": {
+                    "binding_values": [
+                        {
+                            "key": "choice1_label",
+                            "value": {
+                                "string_value": "Best",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "choice2_label",
+                            "value": {
+                                "string_value": "Worst",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "end_datetime_utc",
+                            "value": {
+                                "string_value": "2024-12-28T21:09:38Z",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "counts_are_final",
+                            "value": {
+                                "boolean_value": true,
+                                "type": "BOOLEAN"
+                            }
+                        },
+                        {
+                            "key": "choice2_count",
+                            "value": {
+                                "string_value": "59",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "choice1_count",
+                            "value": {
+                                "string_value": "263",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "last_updated_datetime_utc",
+                            "value": {
+                                "string_value": "2024-12-28T21:09:39Z",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "duration_minutes",
+                            "value": {
+                                "string_value": "1440",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "api",
+                            "value": {
+                                "string_value": "capi://passthrough/1",
+                                "type": "STRING"
+                            }
+                        },
+                        {
+                            "key": "card_url",
+                            "value": {
+                                "scribe_key": "card_url",
+                                "string_value": "https://twitter.com",
+                                "type": "STRING"
+                            }
+                        }
+                    ],
+                    "card_platform": {
+                        "platform": {
+                            "audience": {
+                                "name": "production"
+                            },
+                            "device": {
+                                "name": "Swift",
+                                "version": "12"
+                            }
+                        }
+                    },
+                    "name": "poll2choice_text_only",
+                    "url": "card://1872751720893140992",
+                    "user_refs_results": []
+                }
+            },
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "isRetweet": false,
+            "isQuote": false,
+            "media": [],
+            "isConversationControlled": false
+        },
+        {
+            "type": "tweet",
+            "id": "1872750251112898873",
+            "url": "https://x.com/AtomSilverman/status/1872750251112898873",
+            "twitterUrl": "https://twitter.com/AtomSilverman/status/1872750251112898873",
+            "text": "24/\nDid I miss anything? Share below.\n\nLiked this thread? Share it with your friends/team.\n\nFollow @AtomSilverman and @AgentOpsAI for everything AI agent related.\n\nLast weeks thread:\nhttps://t.co/BQLC7z5MxY https://t.co/Pdbj5B5hBM",
+            "fullText": "24/\nDid I miss anything? Share below.\n\nLiked this thread? Share it with your friends/team.\n\nFollow @AtomSilverman and @AgentOpsAI for everything AI agent related.\n\nLast weeks thread:\nhttps://t.co/BQLC7z5MxY https://t.co/Pdbj5B5hBM",
+            "source": "Twitter for iPhone",
+            "retweetCount": 0,
+            "replyCount": 3,
+            "likeCount": 9,
+            "quoteCount": 0,
+            "viewCount": 2570,
+            "createdAt": "Fri Dec 27 21:03:48 +0000 2024",
+            "lang": "en",
+            "quoteId": "1870217763123494935",
+            "bookmarkCount": 2,
+            "isReply": true,
+            "inReplyToId": "1872750246629151083",
+            "conversationId": "1872750184549294375",
+            "inReplyToUserId": "1134462942018179073",
+            "inReplyToUsername": "AtomSilverman",
+            "possiblySensitive": false,
+            "isPinned": false,
+            "author": {
+                "type": "user",
+                "userName": "AtomSilverman",
+                "url": "https://x.com/AtomSilverman",
+                "twitterUrl": "https://twitter.com/AtomSilverman",
+                "id": "1134462942018179073",
+                "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                "isVerified": false,
+                "isBlueVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1693795710146142208/L4DA14IF_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/1134462942018179073/1724350632",
+                "description": "Our mission is to make the next 1 billion agents fast, safe, and reliable @AgentOpsAI  \ud83d\udcbb prev @BiltRewards & sold HDM to @Gamelancer",
+                "location": "Free list of 400+ Agents \ud83d\udd87\ufe0f \u2192",
+                "followers": 20930,
+                "following": 1738,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Fri May 31 14:13:37 +0000 2019",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "agen.cy",
+                                "expanded_url": "http://agen.cy",
+                                "url": "https://t.co/5D2qQSiTDV",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 4061,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 627,
+                "statusesCount": 3652,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {},
+                "possiblySensitive": false,
+                "pinnedTweetIds": [
+                    "1828811254409871708"
+                ]
+            },
+            "extendedEntities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/Pdbj5B5hBM",
+                        "expanded_url": "https://x.com/AtomSilverman/status/1872750251112898873/photo/1",
+                        "ext_alt_text": "AgentOps and Agency AI build the best ai agents for fortune 500 companies. AgentStack from AgentOps.ai and Agen.cy  is The fastest way to build robust AI agents. \n\nAI agents suck. We're fixing that. \nFrom the team behind AgentOps, Agency helps teams create reliable AI agents at scale.\n\nAgent Dev Tools\nAgentOps is the industry leading agent observability platform.\n\nVetted AI Agents\nBrowse 400+ AI agents working in production.\n\nAgent Expertise\nWe help everyone from startups to enterprise build agents at scale.\nAbout Agency\nAI agents are the next major paradigm shift in computing. We bring them to life.\n\nWe've personally built and reviewed hundreds of AI agents. Agency helps clients prototype and productionize ambitious projects.\n\nReady to bring high agency systems to life?\nFrom open source AI agent developer tools like AgentOps to Fortune 500 enterprises, we help clients create safe, reliable, and scalable AI agents. LLM cost tracking, agent observability, and more",
+                        "id_str": "1872750248344596480",
+                        "indices": [
+                            207,
+                            230
+                        ],
+                        "media_key": "3_1872750248344596480",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf1YbbmasAALtNs.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/Pdbj5B5hBM",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "all": {
+                                "tags": [
+                                    {
+                                        "user_id": "1717013899617468416",
+                                        "name": "AgentOps \ud83d\udd87\ufe0f",
+                                        "screen_name": "AgentOpsAI",
+                                        "type": "user"
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1075,
+                                "w": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 630,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 357,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1260,
+                            "width": 2400,
+                            "focus_rects": [
+                                {
+                                    "x": 150,
+                                    "y": 0,
+                                    "w": 2250,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 870,
+                                    "y": 0,
+                                    "w": 1260,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 948,
+                                    "y": 0,
+                                    "w": 1105,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 1185,
+                                    "y": 0,
+                                    "w": 630,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2400,
+                                    "h": 1260
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1872750248344596480"
+                            }
+                        }
+                    }
+                ]
+            },
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/Pdbj5B5hBM",
+                        "expanded_url": "https://x.com/AtomSilverman/status/1872750251112898873/photo/1",
+                        "ext_alt_text": "AgentOps and Agency AI build the best ai agents for fortune 500 companies. AgentStack from AgentOps.ai and Agen.cy  is The fastest way to build robust AI agents. \n\nAI agents suck. We're fixing that. \nFrom the team behind AgentOps, Agency helps teams create reliable AI agents at scale.\n\nAgent Dev Tools\nAgentOps is the industry leading agent observability platform.\n\nVetted AI Agents\nBrowse 400+ AI agents working in production.\n\nAgent Expertise\nWe help everyone from startups to enterprise build agents at scale.\nAbout Agency\nAI agents are the next major paradigm shift in computing. We bring them to life.\n\nWe've personally built and reviewed hundreds of AI agents. Agency helps clients prototype and productionize ambitious projects.\n\nReady to bring high agency systems to life?\nFrom open source AI agent developer tools like AgentOps to Fortune 500 enterprises, we help clients create safe, reliable, and scalable AI agents. LLM cost tracking, agent observability, and more",
+                        "id_str": "1872750248344596480",
+                        "indices": [
+                            207,
+                            230
+                        ],
+                        "media_key": "3_1872750248344596480",
+                        "media_url_https": "https://pbs.twimg.com/media/Gf1YbbmasAALtNs.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/Pdbj5B5hBM",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "all": {
+                                "tags": [
+                                    {
+                                        "user_id": "1717013899617468416",
+                                        "name": "AgentOps \ud83d\udd87\ufe0f",
+                                        "screen_name": "AgentOpsAI",
+                                        "type": "user"
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1075,
+                                "w": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 630,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 357,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1260,
+                            "width": 2400,
+                            "focus_rects": [
+                                {
+                                    "x": 150,
+                                    "y": 0,
+                                    "w": 2250,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 870,
+                                    "y": 0,
+                                    "w": 1260,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 948,
+                                    "y": 0,
+                                    "w": 1105,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 1185,
+                                    "y": 0,
+                                    "w": 630,
+                                    "h": 1260
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2400,
+                                    "h": 1260
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1872750248344596480"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "x.com/AtomSilverman/\u2026",
+                        "expanded_url": "https://x.com/AtomSilverman/status/1870217763123494935",
+                        "url": "https://t.co/BQLC7z5MxY",
+                        "indices": [
+                            183,
+                            206
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "1134462942018179073",
+                        "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                        "screen_name": "AtomSilverman",
+                        "indices": [
+                            99,
+                            113
+                        ]
+                    },
+                    {
+                        "id_str": "1717013899617468416",
+                        "name": "AgentOps \ud83d\udd87\ufe0f",
+                        "screen_name": "AgentOpsAI",
+                        "indices": [
+                            118,
+                            129
+                        ]
+                    }
+                ]
+            },
+            "isRetweet": false,
+            "isQuote": true,
+            "quote": {
+                "type": "tweet",
+                "id": "1870217763123494935",
+                "text": "Here is everything that happened in AI Agents this week \ud83e\uddf5\n\n(save for later) https://t.co/TMufkr1QpK",
+                "source": "Twitter for iPhone",
+                "retweetCount": 323,
+                "replyCount": 73,
+                "likeCount": 2111,
+                "quoteCount": 23,
+                "viewCount": 279377,
+                "createdAt": "Fri Dec 20 21:20:36 +0000 2024",
+                "lang": "en",
+                "bookmarkCount": 3957,
+                "possiblySensitive": false,
+                "isPinned": false,
+                "author": {
+                    "type": "user",
+                    "userName": "AtomSilverman",
+                    "url": "https://x.com/AtomSilverman",
+                    "twitterUrl": "https://twitter.com/AtomSilverman",
+                    "id": "1134462942018179073",
+                    "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f",
+                    "isVerified": false,
+                    "isBlueVerified": true,
+                    "profilePicture": "https://pbs.twimg.com/profile_images/1693795710146142208/L4DA14IF_normal.jpg",
+                    "coverPicture": "https://pbs.twimg.com/profile_banners/1134462942018179073/1724350632",
+                    "description": "Our mission is to make the next 1 billion agents fast, safe, and reliable @AgentOpsAI  \ud83d\udcbb prev @BiltRewards & sold HDM to @Gamelancer",
+                    "location": "Free list of 400+ Agents \ud83d\udd87\ufe0f \u2192",
+                    "followers": 20930,
+                    "following": 1738,
+                    "status": "",
+                    "canDm": true,
+                    "canMediaTag": true,
+                    "createdAt": "Fri May 31 14:13:37 +0000 2019",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "agen.cy",
+                                    "expanded_url": "http://agen.cy",
+                                    "url": "https://t.co/5D2qQSiTDV",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 4061,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "mediaCount": 627,
+                    "statusesCount": 3652,
+                    "withheldInCountries": [],
+                    "affiliatesHighlightedLabel": {},
+                    "possiblySensitive": false,
+                    "pinnedTweetIds": [
+                        "1828811254409871708"
+                    ]
+                },
+                "extendedEntities": {
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/TMufkr1QpK",
+                            "expanded_url": "https://x.com/AtomSilverman/status/1870217763123494935/photo/1",
+                            "ext_alt_text": "AgentOps and Agency built the best ai agents for fortune 500 companies. AgentStack from AgentOps.ai and Agen.cy  is The fastest way to build robust AI agents. \n\nAI agents suck. We're fixing that. \nFrom the team behind AgentOps, Agency helps teams create reliable AI agents at scale.\n\nAgent Dev Tools\nAgentOps is the industry leading agent observability platform.\n\nVetted AI Agents\nBrowse 400+ AI agents working in production.\n\nAgent Expertise\nWe help everyone from startups to enterprise build agents at scale.\nAbout Agency\nAI agents are the next major paradigm shift in computing. We bring them to life.\n\nWe've personally built and reviewed hundreds of AI agents. Agency helps clients prototype and productionize ambitious projects.\n\nReady to bring high agency systems to life?\nFrom open source AI agent developer tools like AgentOps to Fortune 500 enterprises, we help clients create safe, reliable, and scalable AI agents. LLM cost tracking, agent observability, and more",
+                            "id_str": "1870217756991459328",
+                            "indices": [
+                                76,
+                                99
+                            ],
+                            "media_key": "3_1870217756991459328",
+                            "media_url_https": "https://pbs.twimg.com/media/GfRZJCIakAAZr2u.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/TMufkr1QpK",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1717013899617468416",
+                                            "name": "AgentOps \ud83d\udd87\ufe0f",
+                                            "screen_name": "AgentOpsAI",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1821252546469752832",
+                                            "name": "Letta",
+                                            "screen_name": "Letta_AI",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 1114,
+                                            "y": 246,
+                                            "h": 194,
+                                            "w": 194
+                                        },
+                                        {
+                                            "x": 636,
+                                            "y": 822,
+                                            "h": 668,
+                                            "w": 668
+                                        },
+                                        {
+                                            "x": 78,
+                                            "y": 1180,
+                                            "h": 668,
+                                            "w": 668
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 652,
+                                            "y": 144,
+                                            "h": 113,
+                                            "w": 113
+                                        },
+                                        {
+                                            "x": 372,
+                                            "y": 481,
+                                            "h": 391,
+                                            "w": 391
+                                        },
+                                        {
+                                            "x": 45,
+                                            "y": 691,
+                                            "h": 391,
+                                            "w": 391
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 369,
+                                            "y": 81,
+                                            "h": 64,
+                                            "w": 64
+                                        },
+                                        {
+                                            "x": 211,
+                                            "y": 272,
+                                            "h": 221,
+                                            "w": 221
+                                        },
+                                        {
+                                            "x": 25,
+                                            "y": 391,
+                                            "h": 221,
+                                            "w": 221
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 2228,
+                                            "y": 492,
+                                            "h": 388,
+                                            "w": 388
+                                        },
+                                        {
+                                            "x": 1272,
+                                            "y": 1644,
+                                            "h": 1336,
+                                            "w": 1336
+                                        },
+                                        {
+                                            "x": 156,
+                                            "y": 2360,
+                                            "h": 1336,
+                                            "w": 1336
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 2048,
+                                    "w": 1706,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "w": 1000,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 566,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 4096,
+                                "width": 3412,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 374,
+                                        "w": 3412,
+                                        "h": 1911
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 3412
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 3890
+                                    },
+                                    {
+                                        "x": 1327,
+                                        "y": 0,
+                                        "w": 2048,
+                                        "h": 4096
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 4096
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1870217756991459328"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "card": {},
+                "place": {},
+                "entities": {
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/TMufkr1QpK",
+                            "expanded_url": "https://x.com/AtomSilverman/status/1870217763123494935/photo/1",
+                            "ext_alt_text": "AgentOps and Agency built the best ai agents for fortune 500 companies. AgentStack from AgentOps.ai and Agen.cy  is The fastest way to build robust AI agents. \n\nAI agents suck. We're fixing that. \nFrom the team behind AgentOps, Agency helps teams create reliable AI agents at scale.\n\nAgent Dev Tools\nAgentOps is the industry leading agent observability platform.\n\nVetted AI Agents\nBrowse 400+ AI agents working in production.\n\nAgent Expertise\nWe help everyone from startups to enterprise build agents at scale.\nAbout Agency\nAI agents are the next major paradigm shift in computing. We bring them to life.\n\nWe've personally built and reviewed hundreds of AI agents. Agency helps clients prototype and productionize ambitious projects.\n\nReady to bring high agency systems to life?\nFrom open source AI agent developer tools like AgentOps to Fortune 500 enterprises, we help clients create safe, reliable, and scalable AI agents. LLM cost tracking, agent observability, and more",
+                            "id_str": "1870217756991459328",
+                            "indices": [
+                                76,
+                                99
+                            ],
+                            "media_key": "3_1870217756991459328",
+                            "media_url_https": "https://pbs.twimg.com/media/GfRZJCIakAAZr2u.jpg",
+                            "type": "photo",
+                            "url": "https://t.co/TMufkr1QpK",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "all": {
+                                    "tags": [
+                                        {
+                                            "user_id": "1717013899617468416",
+                                            "name": "AgentOps \ud83d\udd87\ufe0f",
+                                            "screen_name": "AgentOpsAI",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "user_id": "1821252546469752832",
+                                            "name": "Letta",
+                                            "screen_name": "Letta_AI",
+                                            "type": "user"
+                                        }
+                                    ]
+                                },
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 1114,
+                                            "y": 246,
+                                            "h": 194,
+                                            "w": 194
+                                        },
+                                        {
+                                            "x": 636,
+                                            "y": 822,
+                                            "h": 668,
+                                            "w": 668
+                                        },
+                                        {
+                                            "x": 78,
+                                            "y": 1180,
+                                            "h": 668,
+                                            "w": 668
+                                        }
+                                    ]
+                                },
+                                "medium": {
+                                    "faces": [
+                                        {
+                                            "x": 652,
+                                            "y": 144,
+                                            "h": 113,
+                                            "w": 113
+                                        },
+                                        {
+                                            "x": 372,
+                                            "y": 481,
+                                            "h": 391,
+                                            "w": 391
+                                        },
+                                        {
+                                            "x": 45,
+                                            "y": 691,
+                                            "h": 391,
+                                            "w": 391
+                                        }
+                                    ]
+                                },
+                                "small": {
+                                    "faces": [
+                                        {
+                                            "x": 369,
+                                            "y": 81,
+                                            "h": 64,
+                                            "w": 64
+                                        },
+                                        {
+                                            "x": 211,
+                                            "y": 272,
+                                            "h": 221,
+                                            "w": 221
+                                        },
+                                        {
+                                            "x": 25,
+                                            "y": 391,
+                                            "h": 221,
+                                            "w": 221
+                                        }
+                                    ]
+                                },
+                                "orig": {
+                                    "faces": [
+                                        {
+                                            "x": 2228,
+                                            "y": 492,
+                                            "h": 388,
+                                            "w": 388
+                                        },
+                                        {
+                                            "x": 1272,
+                                            "y": 1644,
+                                            "h": 1336,
+                                            "w": 1336
+                                        },
+                                        {
+                                            "x": 156,
+                                            "y": 2360,
+                                            "h": 1336,
+                                            "w": 1336
+                                        }
+                                    ]
+                                }
+                            },
+                            "sizes": {
+                                "large": {
+                                    "h": 2048,
+                                    "w": 1706,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "h": 1200,
+                                    "w": 1000,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "h": 680,
+                                    "w": 566,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "w": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "original_info": {
+                                "height": 4096,
+                                "width": 3412,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 374,
+                                        "w": 3412,
+                                        "h": 1911
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 3412
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 3890
+                                    },
+                                    {
+                                        "x": 1327,
+                                        "y": 0,
+                                        "w": 2048,
+                                        "h": 4096
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3412,
+                                        "h": 4096
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            },
+                            "media_results": {
+                                "result": {
+                                    "media_key": "3_1870217756991459328"
+                                }
+                            }
+                        }
+                    ],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [],
+                    "user_mentions": []
+                }
+            },
+            "media": [
+                "https://pbs.twimg.com/media/Gf1YbbmasAALtNs.jpg"
+            ],
+            "isConversationControlled": false
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        },
+        {
+            "noResults": true
+        }
+    ]
+}
